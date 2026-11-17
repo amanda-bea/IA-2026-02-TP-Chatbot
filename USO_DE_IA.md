@@ -13,25 +13,18 @@
 
 | Ferramenta (nome e versão/modelo) | Como acessaram | Quem usou |
 |---|---|---|
-| _Exemplo: OpenRouter, modelo openai/gpt-6-luna_ | _chave do grupo, via código_ | _todos_ |
-| _Exemplo: ChatGPT (versão gratuita)_ | _navegador_ | _Fulana_ |
-| TODO | | |
+| Google Gemini (interface web) | Navegador | Maria Eduarda da Silva Gonçalves |
 
 ## 2. Usos, um por linha
 
 | # | Etapa | O que a IA fez | Prompt (ou resumo + link para o registro) | O que o grupo fez com o resultado |
 |---|---|---|---|---|
-| 1 | _Dados de treino_ | _Gerou 412 frases para 6 intenções_ | _ver `dados/prompts_llm.md`_ | _Revisamos todas; 57 descartadas, 12 rótulos corrigidos_ |
-| 2 | _Chatbot_ | _Redige as respostas das intenções e do chitchat_ | _prompts em `chatbot/llm.py` + persona do `grupo.yaml`_ | _Ajustamos a persona 3 vezes após testes (seção X do artigo)_ |
-| 3 | _Código_ | _Sugeriu a função que plota a curva de validação_ | _"como plotar o resultado do GridSearchCV em função de C"_ | _Adaptamos nomes e eixos; entendemos e testamos_ |
-| 4 | _Escrita_ | _Revisou a gramática da Introdução_ | _"revise a gramática sem mudar o conteúdo: ..."_ | _Aceitamos parte das sugestões_ |
-| TODO | | | | |
+| 1 | Documentação das fontes (`FONTES.md`) | Apenas formatou e organizou em tabela Markdown os caminhos, links, números de editais e descrições fornecidos pelo grupo, associando corretamente cada informação ao seu respectivo arquivo | *"mande tudo aqui com o link"* / *"ajuste a ordem"* (com envio manual pelo grupo dos caminhos, links e números de editais de cada arquivo) | Revisamos toda a tabela formatada, conferimos a correspondência de cada arquivo e salvamos no arquivo `documentos/FONTES.md` |
 
 ## 3. O que NÃO foi feito com IA
 
-TODO: digam explicitamente o que foi feito sem IA (ex.: definição das intenções,
-frases do teste, análise dos erros, conclusões).
+Toda a busca e definição dos caminhos nos portais da PROECE/UFMS e Boletim Oficial; a seleção e o download dos 38 arquivos PDF e TXT (incluindo o contato com as Associações Atléticas Acadêmicas para obtenção dos regulamentos internos); a extração manual dos números de cada edital e conteúdos dos documentos; [complementar com as demais etapas feitas sem IA pelo grupo, como: definição das intenções, criação das frases de treino e teste, implementação/ajustes do código do chatbot, análise dos erros e redação das conclusões].
 
 ## 4. Reflexão (2 a 4 frases)
 
-TODO: onde a IA ajudou, onde atrapalhou ou errou, e como vocês verificaram o que ela produziu.
+A IA foi utilizada para agilizar a formatação e organização em tabela Markdown do arquivo `documentos/FONTES.md`, associando cada arquivo aos respectivos caminhos, links e números de editais que foram previamente levantados e fornecidos pelo grupo. Como a ferramenta não consegue abrir arquivos compactados em `.zip`, o grupo precisou extrair e enviar manualmente os dados de cada documento para que ela realizasse a padronização visual conforme solicitado. Ao final, conferimos cada linha da tabela para garantir a precisão antes de salvar no repositório.
