@@ -1,0 +1,551 @@
+texto,intencao,origem
+Quais modalidades esportivas estão sendo oferecidas atualmente pela UFMS?,modalidades_treinos,llm
+Poderia me informar quais esportes têm turmas regulares neste semestre?,modalidades_treinos,llm
+Há aulas de natação ou de outras modalidades aquáticas para estudantes?,modalidades_treinos,llm
+"Quais modalidades coletivas, como vôlei e basquete, estão disponíveis na programação?",modalidades_treinos,llm
+"Vocês oferecem aulas de modalidades individuais, como atletismo ou tênis?",modalidades_treinos,llm
+Em quais dias da semana acontecem os treinos de futsal para estudantes?,modalidades_treinos,llm
+Poderia informar os horários das turmas de vôlei neste semestre?,modalidades_treinos,llm
+As aulas de dança e ginástica são oferecidas em mais de um horário?,modalidades_treinos,llm
+Há treinos de modalidades esportivas no período da manhã?,modalidades_treinos,llm
+Quais são os horários das atividades esportivas oferecidas no período da noite?,modalidades_treinos,llm
+Quais modalidades de esporte tem na UFMS?,modalidades_treinos,llm
+Tem turma de vôlei esse semestre?,modalidades_treinos,llm
+Que dias rola treino de futsal?,modalidades_treinos,llm
+Quais esportes têm aula de manhã?,modalidades_treinos,llm
+Tem horário de treino de natação à noite?,modalidades_treinos,llm
+A UFMS oferece aulas de dança?,modalidades_treinos,llm
+Queria saber os horários das turmas de basquete,modalidades_treinos,llm
+Tem treino de corrida durante a semana?,modalidades_treinos,llm
+Quais modalidades têm turma pra iniciante?,modalidades_treinos,llm
+As aulas de yoga são em quais dias?,modalidades_treinos,llm
+quais modalidades esportivas tem na ufms,modalidades_treinos,llm
+tem turma de volei pra iniciante,modalidades_treinos,llm
+quais esportes tem aula durante a semana,modalidades_treinos,llm
+sabe os horarios dos treinos de futsal,modalidades_treinos,llm
+tem aula de natacao de manha,modalidades_treinos,llm
+quais dias rola treino de basquete,modalidades_treinos,llm
+tem turma de tenis pra quem nunca jogou,modalidades_treinos,llm
+os treinos de handebol sao em quais horarios,modalidades_treinos,llm
+tem alguma modalidade de luta na ufms,modalidades_treinos,llm
+quais esportes tem turma no periodo da noite,modalidades_treinos,llm
+Quais modalidades estão com turma aberta neste semestre? Preciso escolher uma ainda hoje.,modalidades_treinos,llm
+"Tô tentando encaixar um esporte na rotina da faculdade, mas não sei quais opções têm treino à noite. Pode me dizer?",modalidades_treinos,llm
+Tem alguma turma de vôlei no período da manhã? Meu horário mudou e preciso me organizar logo.,modalidades_treinos,llm
+Quais esportes têm treinos durante a semana? Estou com pouco tempo e queria comparar os horários.,modalidades_treinos,llm
+Ainda existem aulas de natação ou as turmas já fecharam? Preciso saber antes de montar minha grade.,modalidades_treinos,llm
+"Queria fazer alguma modalidade em dois dias da semana, mas não sei quais oferecem esse horário. Consegue me informar?",modalidades_treinos,llm
+Estou procurando treino de futsal à tarde. Tem turma nesse período neste semestre?,modalidades_treinos,llm
+Quais modalidades têm horários depois das 18h? Saio da aula tarde e tô quase desistindo de começar.,modalidades_treinos,llm
+Preciso saber se há turma de basquete aos sábados ou em algum horário livre durante a semana. Minha agenda está bem apertada.,modalidades_treinos,llm
+A programação das turmas já saiu? Quero conferir quais modalidades e horários combinam com minhas aulas.,modalidades_treinos,llm
+Quais modalidades têm?,modalidades_treinos,llm
+Tem vôlei?,modalidades_treinos,llm
+Horários do futsal?,modalidades_treinos,llm
+Turmas de natação?,modalidades_treinos,llm
+Treino de basquete,modalidades_treinos,llm
+Aulas de dança?,modalidades_treinos,llm
+Tem turma de corrida?,modalidades_treinos,llm
+Quando rola handebol?,modalidades_treinos,llm
+Modalidades disponíveis,modalidades_treinos,llm
+Horário do judô?,modalidades_treinos,llm
+"Poderia me explicar como faço para me inscrever nas turmas do Programa Universitário de Lazer, Saúde e Esporte?",inscricao_programa,llm
+"Qual é o procedimento para solicitar uma vaga nas turmas do Programa Universitário de Lazer, Saúde e Esporte?",inscricao_programa,llm
+"A inscrição no Programa Universitário de Lazer, Saúde e Esporte é feita por algum formulário on-line?",inscricao_programa,llm
+Você poderia informar em qual plataforma devo realizar minha inscrição no programa?,inscricao_programa,llm
+"Quais etapas preciso seguir para concluir a inscrição nas turmas do Programa Universitário de Lazer, Saúde e Esporte?",inscricao_programa,llm
+É necessário apresentar algum documento para se inscrever no programa?,inscricao_programa,llm
+"Como posso saber se minha inscrição no Programa Universitário de Lazer, Saúde e Esporte foi confirmada?",inscricao_programa,llm
+Existe um período específico para fazer a inscrição no programa? Como posso acompanhar a abertura das inscrições?,inscricao_programa,llm
+"Caso eu não consiga me inscrever dentro do prazo, há alguma forma de solicitar uma vaga posteriormente?",inscricao_programa,llm
+Poderia me orientar sobre como corrigir ou atualizar os dados informados na inscrição do programa?,inscricao_programa,llm
+"Como faço minha inscrição no Programa Universitário de Lazer, Saúde e Esporte?",inscricao_programa,llm
+Tem algum formulário pra entrar nas turmas do programa?,inscricao_programa,llm
+Onde eu me cadastro pra participar do PULSE?,inscricao_programa,llm
+Ainda dá tempo de se inscrever nas atividades do programa?,inscricao_programa,llm
+Preciso enviar algum documento pra fazer a inscrição?,inscricao_programa,llm
+A inscrição é pelo site ou presencial?,inscricao_programa,llm
+Posso me inscrever pelo celular?,inscricao_programa,llm
+Como confirmo que minha inscrição foi concluída?,inscricao_programa,llm
+Tem que fazer uma inscrição nova a cada semestre?,inscricao_programa,llm
+"Perdi o prazo de inscrição, tem lista de espera?",inscricao_programa,llm
+como faço pra me inscrever nas turmas do programa universitário de lazer saúde e esporte,inscricao_programa,llm
+onde encontro o formulario pra entrar nas turmas do pulse,inscricao_programa,llm
+queria saber qual é o passo a passo pra fazer minha inscrição no programa,inscricao_programa,llm
+tem algum site pra se cadastrar nas atividades do pulse,inscricao_programa,llm
+a inscrição nas turmas é feita online ou preciso preencher algum documento,inscricao_programa,llm
+como faço pra garantir minha vaga nas turmas do programa de lazer saúde e esporte,inscricao_programa,llm
+não to conseguindo achar onde me inscrevo no pulse pode me orientar,inscricao_programa,llm
+quais dados preciso informar pra me cadastrar nas turmas do programa,inscricao_programa,llm
+ainda da tempo de fazer minha inscrição no programa universitário,inscricao_programa,llm
+me explica como funciona o cadastro pra participar das turmas do pulse,inscricao_programa,llm
+"Oi, preciso me inscrever nas turmas do Programa Universitário de Lazer, Saúde e Esporte e estou perdido. Qual é o primeiro passo?",inscricao_programa,llm
+As inscrições já começaram? Estou com medo de perder o prazo e não sei onde faço o cadastro.,inscricao_programa,llm
+Tenho que preencher algum formulário para entrar no programa? Queria resolver isso ainda hoje.,inscricao_programa,llm
+"Estou tentando me inscrever, mas não sei se preciso usar meu login institucional. Como faço?",inscricao_programa,llm
+Quais documentos preciso separar para concluir minha inscrição? Estou com pressa porque quero deixar tudo pronto.,inscricao_programa,llm
+"Enviei meus dados para participar do programa, mas não recebi confirmação. Como verifico se minha inscrição foi concluída?",inscricao_programa,llm
+Preciso fazer um cadastro novo ou posso usar meus dados de estudante que já estão no sistema? Estou tentando terminar a inscrição agora.,inscricao_programa,llm
+Perdi o prazo de inscrição e queria saber se ainda existe alguma forma de participar. Não queria ficar de fora por causa disso.,inscricao_programa,llm
+A inscrição pede informações que não sei onde encontrar no sistema. Podem me orientar sobre como preencher corretamente?,inscricao_programa,llm
+Quero cancelar uma inscrição que fiz por engano e me cadastrar de novo. Qual é o procedimento?,inscricao_programa,llm
+Como me inscrevo?,inscricao_programa,llm
+Inscrição nas turmas,inscricao_programa,llm
+Quero fazer matrícula,inscricao_programa,llm
+Processo de inscrição,inscricao_programa,llm
+Inscrições já abertas?,inscricao_programa,llm
+Entrar no programa,inscricao_programa,llm
+Vagas para inscrição?,inscricao_programa,llm
+Formulário de matrícula,inscricao_programa,llm
+Inscrever-se no PULSE,inscricao_programa,llm
+Prazo de matrícula,inscricao_programa,llm
+Como faço para cadastrar a atlética do meu curso junto à UFMS?,atleticas,llm
+Quais documentos são necessários para regularizar o cadastro de uma atlética estudantil?,atleticas,llm
+A atlética precisa ter estatuto e diretoria eleita para ser reconhecida pela universidade?,atleticas,llm
+Onde posso consultar a lista de atléticas cadastradas na UFMS?,atleticas,llm
+Como atualizo os dados da diretoria da minha atlética no cadastro institucional?,atleticas,llm
+A UFMS oferece editais de fomento para projetos organizados por atléticas?,atleticas,llm
+Quais despesas podem ser incluídas em uma proposta de fomento para a atlética?,atleticas,llm
+Como funciona a prestação de contas dos recursos recebidos por uma atlética?,atleticas,llm
+Estudantes de diferentes cursos podem criar uma atlética em conjunto e cadastrá-la na UFMS?,atleticas,llm
+É necessário renovar o cadastro da atlética a cada ano letivo?,atleticas,llm
+Como faço pra cadastrar uma atlética da UFMS?,atleticas,llm
+Tem algum formulário pra registrar a atlética?,atleticas,llm
+Quais documentos precisa pra cadastrar uma atlética?,atleticas,llm
+A atlética precisa renovar o cadastro todo ano?,atleticas,llm
+Onde atualizo os dados da nossa atlética?,atleticas,llm
+Dá pra cadastrar uma atlética nova pelo sistema?,atleticas,llm
+Como incluir novos membros no cadastro da atlética?,atleticas,llm
+Tem edital de fomento pras atléticas?,atleticas,llm
+Como a atlética pode pedir recurso pra comprar materiais?,atleticas,llm
+Quais despesas podem entrar no pedido de fomento?,atleticas,llm
+como faço pra cadastrar uma atletica na ufms,atleticas,llm
+tem algum formulario pra registrar a atlética do meu curso,atleticas,llm
+quais documentos precisa pra oficializar uma atletica,atleticas,llm
+a nossa atlética pode atualizar os dados cadastrais,atleticas,llm
+onde vejo se a atletica ja ta cadastrada na ufms,atleticas,llm
+tem edital de fomento pra atléticas esse ano,atleticas,llm
+como a atlética pode pedir recurso pra organizar atividades,atleticas,llm
+quais são os criterios pra receber fomento institucional,atleticas,llm
+o cadastro da atletica precisa ser renovado todo ano,atleticas,llm
+quem pode representar a atlética no pedido de fomento,atleticas,llm
+"Minha atlética quer se cadastrar oficialmente na UFMS, mas não sabemos quais documentos enviar. Onde faço esse registro?",atleticas,llm
+Estamos tentando regularizar a atlética antes do prazo e falta confirmar quem pode assinar o cadastro. A diretoria inteira precisa estar registrada?,atleticas,llm
+A atlética mudou de presidente e precisamos atualizar os dados no cadastro institucional. Como fazemos isso com urgência?,atleticas,llm
+Nossa atlética ainda não tem CNPJ; mesmo assim podemos solicitar reconhecimento ou cadastrar a entidade na UFMS?,atleticas,llm
+Perdemos o comprovante de cadastro da atlética e precisamos dele para uma reunião hoje. Tem como emitir uma segunda via?,atleticas,llm
+"Saiu um edital de fomento e minha atlética quer participar, mas não entendi se precisa estar cadastrada antes de enviar a proposta. Alguém consegue confirmar?",atleticas,llm
+Estamos montando o pedido de fomento da atlética e o prazo está acabando. Quais documentos são obrigatórios para a inscrição?,atleticas,llm
+"Nossa proposta foi aprovada, mas não sabemos como comprovar depois o uso do recurso recebido pela atlética. Qual é o procedimento de prestação de contas?",atleticas,llm
+"A atlética quer pedir apoio financeiro para uma ação estudantil, mas não encontrou o formulário de fomento. Onde ele fica?",atleticas,llm
+Estamos com o cadastro da atlética em análise há semanas e precisamos saber se falta alguma coisa. Como consulto a situação do pedido?,atleticas,llm
+Como criar atlética?,atleticas,llm
+Cadastro de atlética,atleticas,llm
+Regularizar associação atlética,atleticas,llm
+Documentos para cadastro,atleticas,llm
+Atualizar diretoria da atlética,atleticas,llm
+Edital de fomento,atleticas,llm
+Fomento para atléticas,atleticas,llm
+Financiamento de atléticas,atleticas,llm
+Prestação de contas,atleticas,llm
+Renovar registro da atlética,atleticas,llm
+"Olá, vocês poderiam informar quando será realizada a próxima edição dos Jogos Universitários da UFMS?",competicoes_jogos,llm
+"Por gentileza, onde posso consultar o calendário das competições universitárias deste ano?",competicoes_jogos,llm
+Como funciona o formato de disputa da Copa Interatléticas?,competicoes_jogos,llm
+As competições universitárias da UFMS são abertas a estudantes de todos os câmpus?,competicoes_jogos,llm
+Poderiam explicar quais são os critérios de classificação para as fases finais da Copa Interatléticas?,competicoes_jogos,llm
+Onde são divulgados os resultados e as tabelas dos jogos universitários?,competicoes_jogos,llm
+É necessário apresentar algum documento para participar de uma partida oficial da Copa Interatléticas?,competicoes_jogos,llm
+As regras da Copa Interatléticas seguem regulamentos próprios ou as regras oficiais de cada modalidade?,competicoes_jogos,llm
+"Por gentileza, os jogos universitários têm transmissão ou divulgação ao vivo para quem não puder assistir presencialmente?",competicoes_jogos,llm
+Como posso acompanhar possíveis alterações de datas e horários das partidas durante a competição?,competicoes_jogos,llm
+Quando vai rolar a próxima Copa Interatléticas?,competicoes_jogos,llm
+Como funciona a fase eliminatória dos jogos universitários?,competicoes_jogos,llm
+Já saiu a tabela dos jogos desse ano?,competicoes_jogos,llm
+A UFMS vai participar dos JUBs?,competicoes_jogos,llm
+Onde vejo os resultados das partidas da Copa?,competicoes_jogos,llm
+Tem alguma competição universitária acontecendo essa semana?,competicoes_jogos,llm
+Quantos atletas podem jogar por equipe na Copa Interatléticas?,competicoes_jogos,llm
+A final vai ser transmitida ao vivo?,competicoes_jogos,llm
+Quais foram os campeões da última edição?,competicoes_jogos,llm
+Ainda dá tempo de inscrever uma equipe nos jogos universitários?,competicoes_jogos,llm
+quando vai ser a proxima copa interatleticas da ufms,competicoes_jogos,llm
+como funciona a fase eliminatoria dos jogos universitarios,competicoes_jogos,llm
+tem algum calendario das competições desse ano,competicoes_jogos,llm
+quem ganhou a ultima edição da copa interatleticas,competicoes_jogos,llm
+a ufms vai participar dos jogos universitarios brasileiros esse ano,competicoes_jogos,llm
+as partidas da copa interatleticas tem tempo extra se empatar,competicoes_jogos,llm
+onde consigo ver os resultados dos jogos universitarios,competicoes_jogos,llm
+a copa interatleticas acontece todo ano ou só de vez em quando,competicoes_jogos,llm
+quais são as regras de pontuação da competição entre as atléticas,competicoes_jogos,llm
+a final dos jogos universitarios vai ser transmitida ao vivo,competicoes_jogos,llm
+Alguém sabe quando sai o calendário dos Jogos Universitários deste ano? Preciso me organizar logo porque as inscrições da minha equipe estão chegando.,competicoes_jogos,llm
+Perdi o prazo de inscrição para a Copa Interatléticas ou ainda dá tempo de participar? Estou tentando confirmar isso antes de falar com o pessoal.,competicoes_jogos,llm
+Onde posso consultar a tabela dos jogos da Copa Interatléticas? A gente precisa saber contra quem joga e em que dia.,competicoes_jogos,llm
+A partida da UFMS foi adiada? Estou com pressa para avisar meus colegas e não encontrei nenhuma atualização.,competicoes_jogos,llm
+Quais documentos os estudantes precisam apresentar para competir nos Jogos Universitários? A etapa está perto e não quero chegar lá sem algo importante.,competicoes_jogos,llm
+Já divulgaram os resultados das provas de ontem? Estou esperando para saber se nossa equipe avançou de fase.,competicoes_jogos,llm
+Como funciona a pontuação na Copa Interatléticas quando duas equipes terminam empatadas? Não achei essa regra e o próximo jogo é decisivo.,competicoes_jogos,llm
+Ainda dá para incluir um estudante na equipe depois que a competição começou? Tivemos um imprevisto e estamos tentando resolver isso hoje.,competicoes_jogos,llm
+Os jogos universitários vão ter transmissão ou alguma página para acompanhar os placares ao vivo? Não vou conseguir estar presente em todas as partidas.,competicoes_jogos,llm
+Tem alguma previsão de mudança nos jogos por causa da chuva? Nossa partida está marcada para hoje e o grupo está sem saber se deve ir.,competicoes_jogos,llm
+Quando começam os jogos?,competicoes_jogos,llm
+Calendário dos jogos universitários?,competicoes_jogos,llm
+Próxima Copa Interatléticas?,competicoes_jogos,llm
+Onde vejo os resultados?,competicoes_jogos,llm
+Quem foi campeão?,competicoes_jogos,llm
+Tabela da Copa Interatléticas,competicoes_jogos,llm
+Como funciona a competição?,competicoes_jogos,llm
+Datas das partidas?,competicoes_jogos,llm
+Quando será a final?,competicoes_jogos,llm
+Quais são os times participantes?,competicoes_jogos,llm
+Quais são os critérios para um estudante-atleta da UFMS receber uma bolsa de apoio esportivo?,apoio_atletas,llm
+Como posso solicitar uma bolsa destinada a estudantes-atletas da UFMS?,apoio_atletas,llm
+Quais documentos preciso apresentar para me candidatar a uma bolsa para estudante-atleta?,apoio_atletas,llm
+Quando costumam ser publicados os editais de bolsas para estudantes-atletas?,apoio_atletas,llm
+Qual é o valor mensal das bolsas oferecidas a estudantes-atletas pela UFMS?,apoio_atletas,llm
+A bolsa para estudante-atleta pode ser renovada no semestre seguinte?,apoio_atletas,llm
+Posso acumular uma bolsa de apoio esportivo com outros auxílios estudantis da UFMS?,apoio_atletas,llm
+O desempenho acadêmico é considerado para manter a bolsa de estudante-atleta?,apoio_atletas,llm
+A UFMS oferece auxílio financeiro para cobrir despesas com equipamentos esportivos de estudantes-atletas?,apoio_atletas,llm
+Existe algum apoio da UFMS para despesas de deslocamento ou hospedagem de estudantes-atletas?,apoio_atletas,llm
+Tem bolsa pra estudante-atleta da UFMS?,apoio_atletas,llm
+Como faço pra pedir apoio financeiro sendo atleta?,apoio_atletas,llm
+Quais os requisitos pra conseguir a bolsa atleta?,apoio_atletas,llm
+Precisa ter renda baixa pra concorrer à bolsa?,apoio_atletas,llm
+Que documentos pedem pra solicitar esse auxílio?,apoio_atletas,llm
+Quando abre o edital de bolsas pra atletas?,apoio_atletas,llm
+A bolsa de atleta pode ser renovada todo semestre?,apoio_atletas,llm
+Tem algum apoio pra conciliar estudos e vida de atleta?,apoio_atletas,llm
+Quem já recebe outra bolsa pode pedir a de atleta tb?,apoio_atletas,llm
+Onde vejo o valor e as regras do auxílio pra estudante-atleta?,apoio_atletas,llm
+tem bolsa atleta pra quem representa a ufms em competições,apoio_atletas,llm
+como faço pra pedir auxilio financeiro sendo atleta universitario,apoio_atletas,llm
+quais são os criterios pra conseguir uma bolsa de atleta,apoio_atletas,llm
+a bolsa esportiva cobre gastos com passagem e hospedagem,apoio_atletas,llm
+precisa ter boas notas pra continuar recebendo a bolsa atleta,apoio_atletas,llm
+tem como renovar a bolsa de atleta no proximo semestre,apoio_atletas,llm
+posso receber bolsa atleta junto com outra bolsa da universidade,apoio_atletas,llm
+quais documentos preciso apresentar pra concorrer ao apoio financeiro,apoio_atletas,llm
+o que acontece se eu perder o prazo de inscrição da bolsa atleta,apoio_atletas,llm
+existe algum apoio pros estudos de quem treina e compete pela ufms,apoio_atletas,llm
+Sou atleta da UFMS e estou apertado financeiramente; existe alguma bolsa específica para estudante-atleta?,apoio_atletas,llm
+"Preciso pagar despesas da faculdade e do esporte, mas não sei se posso pedir apoio financeiro por ser atleta. Como funciona?",apoio_atletas,llm
+Estou com medo de perder o prazo: quando abre a seleção para bolsas destinadas a estudantes-atletas?,apoio_atletas,llm
+Já recebo auxílio estudantil e queria saber se posso acumular com uma bolsa para atleta.,apoio_atletas,llm
+Quais documentos preciso reunir para solicitar uma bolsa de estudante-atleta? Quero deixar tudo pronto logo.,apoio_atletas,llm
+Minha renda familiar mudou recentemente e estou precisando de ajuda para continuar estudando e treinando. Posso solicitar algum apoio?,apoio_atletas,llm
+Tenho dúvidas sobre os critérios para receber bolsa como atleta da UFMS. A situação socioeconômica também é considerada?,apoio_atletas,llm
+"Recebi uma bolsa, mas não sei se preciso renovar a cada semestre. Como evito perder o benefício?",apoio_atletas,llm
+Sou estudante-atleta e tive um imprevisto financeiro neste mês. Existe algum auxílio emergencial que eu possa solicitar?,apoio_atletas,llm
+Estou começando a representar a UFMS como atleta e preciso me planejar. Há apoio financeiro para despesas com materiais e transporte?,apoio_atletas,llm
+Bolsa atleta UFMS,apoio_atletas,llm
+Auxílio para atletas,apoio_atletas,llm
+Apoio financeiro estudantil,apoio_atletas,llm
+Edital de bolsa atleta,apoio_atletas,llm
+Requisitos para bolsa atleta,apoio_atletas,llm
+Inscrição no auxílio atleta,apoio_atletas,llm
+Renovação da bolsa atleta,apoio_atletas,llm
+Documentos para bolsa atleta,apoio_atletas,llm
+Benefícios para estudante-atleta,apoio_atletas,llm
+Assistência financeira ao atleta,apoio_atletas,llm
+Poderia me informar onde ficam as quadras utilizadas para os treinos na UFMS?,espacos_esportivos,llm
+Como faço para localizar o complexo aquático dentro do campus?,espacos_esportivos,llm
+Você poderia me dizer em qual parte da UFMS ficam as quadras de areia?,espacos_esportivos,llm
+Há um mapa do campus que indique a localização das quadras esportivas?,espacos_esportivos,llm
+Qual é o endereço ou ponto de referência mais próximo do complexo aquático?,espacos_esportivos,llm
+As quadras de treino ficam próximas a algum prédio ou entrada específica do campus?,espacos_esportivos,llm
+Poderia indicar o caminho da entrada principal da UFMS até as quadras de areia?,espacos_esportivos,llm
+Existe mais de um conjunto de quadras esportivas no campus?,espacos_esportivos,llm
+As quadras e o complexo aquático ficam na mesma região da UFMS?,espacos_esportivos,llm
+Você poderia me orientar sobre como encontrar as instalações de treino no campus?,espacos_esportivos,llm
+Onde ficam as quadras esportivas da UFMS?,espacos_esportivos,llm
+Como chego no complexo aquático dentro do campus?,espacos_esportivos,llm
+As quadras de areia ficam perto de qual bloco?,espacos_esportivos,llm
+Tem algum mapa mostrando onde estão os espaços de treino?,espacos_esportivos,llm
+As quadras ficam abertas pra uso livre dos estudantes?,espacos_esportivos,llm
+Precisa reservar a quadra antes de usar?,espacos_esportivos,llm
+O complexo aquático tem vestiário por perto?,espacos_esportivos,llm
+Tem estacionamento perto das quadras de areia?,espacos_esportivos,llm
+As quadras cobertas ficam em qual parte do campus?,espacos_esportivos,llm
+Dá pra entrar no complexo aquático só pra conhecer o espaço?,espacos_esportivos,llm
+onde ficam as quadras esportivas da ufms,espacos_esportivos,llm
+qual bloco eu procuro pra achar o complexo aquatico,espacos_esportivos,llm
+as quadras de areia ficam perto do estadio,espacos_esportivos,llm
+tem como me passar a localizaçao das quadras no campus,espacos_esportivos,llm
+to perdido aqui onde é o complexo aquatico,espacos_esportivos,llm
+por onde entra pra chegar nas quadras da ufms,espacos_esportivos,llm
+as quadras de areia ficam dentro do campus ou do lado de fora,espacos_esportivos,llm
+qual caminho faço da entrada principal até o complexo aquatico,espacos_esportivos,llm
+tem mais de um conjunto de quadras no campus,espacos_esportivos,llm
+me manda uma referencia de onde ficam as quadras de areia,espacos_esportivos,llm
+"Tô chegando na Cidade Universitária e não acho as quadras, qual caminho eu sigo?",espacos_esportivos,llm
+Preciso encontrar o complexo aquático rapidinho; ele fica perto de qual prédio?,espacos_esportivos,llm
+"Me perdi no campus e tenho pouco tempo, onde ficam as quadras de areia?",espacos_esportivos,llm
+As quadras ficam dentro da Cidade Universitária ou em outro espaço da UFMS?,espacos_esportivos,llm
+Você consegue me dizer por qual portão é mais fácil chegar ao complexo aquático?,espacos_esportivos,llm
+Tô no estacionamento e não sei pra que lado ir para chegar às quadras. Tem algum ponto de referência por perto?,espacos_esportivos,llm
+As quadras de areia ficam próximas das quadras cobertas ou são em outro canto do campus?,espacos_esportivos,llm
+Preciso mandar a localização para um colega: qual é o endereço ou ponto de referência do complexo aquático?,espacos_esportivos,llm
+Estou perto da biblioteca e com pressa; como faço para chegar às quadras de areia?,espacos_esportivos,llm
+Onde fica a entrada mais próxima das quadras da UFMS? Estou rodando pelo campus e não encontro.,espacos_esportivos,llm
+Onde ficam as quadras?,espacos_esportivos,llm
+Endereço do complexo aquático,espacos_esportivos,llm
+"Quadras de areia, onde?",espacos_esportivos,llm
+Como chegar às quadras?,espacos_esportivos,llm
+Mapa das quadras,espacos_esportivos,llm
+Onde fica a piscina?,espacos_esportivos,llm
+Localização das quadras de areia,espacos_esportivos,llm
+Acesso ao complexo aquático,espacos_esportivos,llm
+"Quadra coberta, onde?",espacos_esportivos,llm
+Entrada das quadras de areia,espacos_esportivos,llm
+Você poderia me informar o e-mail oficial da Proece para tirar dúvidas sobre esporte na UFMS?,contato_proece,llm
+"Por gentileza, qual é o telefone de atendimento da Proece para assuntos relacionados ao esporte?",contato_proece,llm
+A Proece atende presencialmente estudantes que têm dúvidas gerais sobre as ações esportivas da UFMS?,contato_proece,llm
+Você poderia me dizer em quais dias e horários a equipe da Proece atende o público?,contato_proece,llm
+Existe um formulário oficial para enviar perguntas sobre esporte à Proece?,contato_proece,llm
+Qual setor da Proece é responsável por orientar estudantes sobre assuntos esportivos?,contato_proece,llm
+"Por favor, onde posso consultar informações oficiais e atualizadas sobre esporte na UFMS?",contato_proece,llm
+"Caso eu não receba resposta por e-mail, qual canal devo usar para entrar em contato com a Proece?",contato_proece,llm
+A Proece oferece atendimento remoto para estudantes que precisam esclarecer dúvidas gerais sobre esporte?,contato_proece,llm
+Você poderia me orientar sobre como encaminhar uma sugestão à Proece relacionada ao esporte universitário?,contato_proece,llm
+"Oi, qual é o contato da Proece pra tirar dúvidas sobre esportes?",contato_proece,llm
+A Proece tem algum WhatsApp de atendimento?,contato_proece,llm
+Vc sabe qual email da Proece posso usar?,contato_proece,llm
+Onde acho os canais oficiais da Proece?,contato_proece,llm
+A Proece atende presencialmente? Qual o horário?,contato_proece,llm
+Quem da Proece cuida dos assuntos de esporte?,contato_proece,llm
+Tem algum telefone pra falar com a equipe de esportes da UFMS?,contato_proece,llm
+"Queria saber mais sobre esporte na UFMS, por onde começo?",contato_proece,llm
+A Proece tem redes sociais com informações sobre esporte?,contato_proece,llm
+"Se eu tiver uma dúvida geral sobre esportes, falo com qual setor?",contato_proece,llm
+qual o email da proece pra tirar duvidas sobre esporte na ufms,contato_proece,llm
+vcs tem telefone da proece que eu possa ligar pra saber mais sobre esportes,contato_proece,llm
+onde fica o atendimento da proece pra conversar sobre as atividades esportivas da ufms,contato_proece,llm
+quem da proece pode me explicar como funciona a area de esportes da universidade,contato_proece,llm
+tem algum canal de atendimento online da proece pra assuntos de esporte,contato_proece,llm
+qual o horario de atendimento da proece pra falar sobre esporte universitario,contato_proece,llm
+a proece atende duvidas gerais sobre esporte ou tenho que procurar outro setor,contato_proece,llm
+como faço pra mandar uma pergunta sobre esportes pra equipe da proece,contato_proece,llm
+tem algum servidor responsavel pelos assuntos de esporte na proece,contato_proece,llm
+queria saber onde encontro informaçoes oficiais sobre esporte na ufms vcs podem ajudar,contato_proece,llm
+"Preciso falar com a Proece sobre uma dúvida de esporte, mas não achei o contato atualizado. Qual e-mail ou telefone devo usar?",contato_proece,llm
+Estou com pouco tempo e preciso tirar uma dúvida geral sobre esportes na UFMS. A Proece atende por WhatsApp ou só por e-mail?,contato_proece,llm
+Onde encontro os canais oficiais da Proece? Achei informações diferentes em páginas da UFMS e não sei qual está valendo.,contato_proece,llm
+Enviei uma pergunta sobre esporte para a Proece há alguns dias e ainda não tive retorno. Existe outro contato para confirmar se a mensagem chegou?,contato_proece,llm
+Vocês sabem qual setor da Proece responde dúvidas gerais sobre as atividades esportivas da UFMS? Preciso encaminhar minha questão hoje.,contato_proece,llm
+Estou tentando resolver uma questão relacionada à prática esportiva e não sei com quem falar. Qual é o melhor canal para entrar em contato com a Proece?,contato_proece,llm
+A Proece tem horário de atendimento para dúvidas sobre esporte? Preciso saber se consigo falar com alguém ainda nesta semana.,contato_proece,llm
+Não encontrei orientações sobre regras e cuidados para participar de atividades esportivas na UFMS. A Proece pode me informar onde consultar isso?,contato_proece,llm
+"Minha dúvida é sobre acessibilidade nas ações esportivas da universidade, mas não sei a quem encaminhar. Qual contato da Proece devo procurar?",contato_proece,llm
+Estou preocupado porque preciso de uma informação geral sobre esportes antes de tomar uma decisão. Há algum atendimento da Proece que responda com mais rapidez?,contato_proece,llm
+Qual o contato?,contato_proece,llm
+Telefone da Proece,contato_proece,llm
+E-mail da Proece,contato_proece,llm
+Endereço da Proece?,contato_proece,llm
+Quem responde pelo esporte?,contato_proece,llm
+Dúvidas sobre esportes,contato_proece,llm
+Informações esportivas gerais,contato_proece,llm
+Atendimento da Proece,contato_proece,llm
+Como falar com vocês?,contato_proece,llm
+Esporte na UFMS?,contato_proece,llm
+"Olá, é muito bom conversar com você!",chitchat,llm
+"Boa tarde, espero que sua presença por aqui seja bem-vinda.",chitchat,llm
+Muito obrigado pela sua ajuda e gentileza.,chitchat,llm
+Agradeço de coração pela atenção.,chitchat,llm
+Foi um prazer conversar com você; até mais!,chitchat,llm
+"Até breve, e tenha um ótimo dia!",chitchat,llm
+Você foi muito gentil nesta conversa.,chitchat,llm
+Que resposta atenciosa e bem formulada!,chitchat,llm
+Confesso que esta conversa ficou um pouco frustrante para mim.,chitchat,llm
+Sinto que a interação não correu tão bem quanto eu esperava.,chitchat,llm
+"Você parece ser um chatbot bastante simpático, não é?",chitchat,llm
+"Deve ser interessante conversar com tantas pessoas diferentes, não acha?",chitchat,llm
+"Haha, essa conversa me fez rir!",chitchat,llm
+"Hahaha, gostei do clima descontraído por aqui.",chitchat,llm
+"Está bem, combinado.",chitchat,llm
+"Tudo certo, obrigado.",chitchat,llm
+"Entendi, e agradeço pela explicação.",chitchat,llm
+"Certo, compreendi.",chitchat,llm
+Que bom encontrar você por aqui!,chitchat,llm
+Um abraço virtual e até a próxima!,chitchat,llm
+"Oi, tudo bem? 🙂",chitchat,llm
+"E aí, bot!",chitchat,llm
+Bom diaaa!,chitchat,llm
+"Boa tarde, tudo certo por aí?",chitchat,llm
+"Boa noite, meu caro!",chitchat,llm
+Valeu pela ajuda!,chitchat,llm
+"Obrigada, vc é demais 💛",chitchat,llm
+"Brigadão, viu?",chitchat,llm
+"Até mais, fui!",chitchat,llm
+Tchau tchau 👋,chitchat,llm
+"Falou, até depois!",chitchat,llm
+Vc é muito gente boa!,chitchat,llm
+Adoro conversar com vc,chitchat,llm
+Esse bot é simpático demais 😄,chitchat,llm
+"Poxa, fiquei meio chateado com isso",chitchat,llm
+"Ah, que saco 😕",chitchat,llm
+kkkkkkkk,chitchat,llm
+"hahaha, boa!",chitchat,llm
+"Ok, combinado",chitchat,llm
+"Entendi, valeu!",chitchat,llm
+oiii bot td bem,chitchat,llm
+bom diaa pra vc,chitchat,llm
+eai sumido kkk,chitchat,llm
+obrigadoo pela ajuda,chitchat,llm
+valeu mesmo viu,chitchat,llm
+brigadinhaaa,chitchat,llm
+falou até mais,chitchat,llm
+tchauu fica bem,chitchat,llm
+até dps bot,chitchat,llm
+vc é mto gente boa,chitchat,llm
+adorei conversar com vc,chitchat,llm
+vc é engraçadinho kkk,chitchat,llm
+aff hj nada dá certo,chitchat,llm
+que saco isso viu,chitchat,llm
+to meio cansado hj,chitchat,llm
+kkkkkkkk morri,chitchat,llm
+hahaha boa essa,chitchat,llm
+ok blz,chitchat,llm
+ahh entendi agora,chitchat,llm
+vc é um bot né kkk,chitchat,llm
+Oi! Estou correndo para terminar um trabalho e passei só para dar um alô.,chitchat,llm
+Bom dia! Já acordei atrasada e estou tentando não entrar em pânico.,chitchat,llm
+"Valeu pela ajuda de antes, eu estava bem nervosa com esse trabalho.",chitchat,llm
+Obrigada mesmo! Estou com a cabeça cheia de provas hoje.,chitchat,llm
+Até mais! Preciso correr para a aula antes que a porta feche.,chitchat,llm
+"Tchau, vou tentar me concentrar nos estudos agora.",chitchat,llm
+"Você é muito paciente comigo, ainda mais quando estou toda atrapalhada.",chitchat,llm
+Gostei de conversar com você; minha ansiedade deu uma diminuída.,chitchat,llm
+"Ai, que correria! Tenho prova e apresentação no mesmo dia.",chitchat,llm
+"Estou meio frustrada com a faculdade hoje, parece que tudo resolveu atrasar.",chitchat,llm
+"Esse semestre está puxado demais, mal consigo parar para respirar.",chitchat,llm
+"Ainda estou me acostumando a conversar com um chatbot, mas achei bem tranquilo.",chitchat,llm
+Fico pensando em como você consegue responder com tanta calma enquanto eu estou surtando.,chitchat,llm
+"Haha, ri alto aqui, e eu estava precisando disso no meio do estudo.",chitchat,llm
+"Kkkkk, essa conversa foi uma pausa boa na minha maratona de trabalhos.",chitchat,llm
+"Ok, entendi. Vou tentar organizar as ideias antes de continuar.",chitchat,llm
+"Beleza, combinado comigo mesma: menos ansiedade e mais foco.",chitchat,llm
+"Certo, estou acompanhando, mesmo com mil coisas passando pela cabeça.",chitchat,llm
+"Desculpa se escrevi tudo correndo, estou atrasada para entregar uma atividade.",chitchat,llm
+"Nossa, obrigada por me fazer companhia enquanto espero a aula começar.",chitchat,llm
+"Oi, tudo bem?",chitchat,llm
+Olá!,chitchat,llm
+Bom dia!,chitchat,llm
+Boa tarde!,chitchat,llm
+Boa noite!,chitchat,llm
+Valeu!,chitchat,llm
+Muito obrigado!,chitchat,llm
+Agradeço demais!,chitchat,llm
+Até mais!,chitchat,llm
+"Tchau, até breve!",chitchat,llm
+Você é ótimo!,chitchat,llm
+Adoro conversar contigo!,chitchat,llm
+Que chatbot incrível!,chitchat,llm
+Isso foi frustrante.,chitchat,llm
+Não gostei disso.,chitchat,llm
+"Haha, muito bom!",chitchat,llm
+Kkkkk!,chitchat,llm
+"Ok, combinado.",chitchat,llm
+Entendi perfeitamente.,chitchat,llm
+Você me faz rir!,chitchat,llm
+Você poderia me informar os horários das turmas de idiomas oferecidas pela universidade?,fora_dominio,llm
+Como faço para me inscrever nas turmas de monitoria deste semestre?,fora_dominio,llm
+A universidade oferece bolsas de apoio para estudantes que participam de projetos de pesquisa?,fora_dominio,llm
+Onde posso consultar o calendário das competições de iniciação científica?,fora_dominio,llm
+Como faço meu cadastro para concorrer a uma bolsa de assistência estudantil?,fora_dominio,llm
+Você sabe quais são os horários de atendimento da coordenação do meu curso?,fora_dominio,llm
+A universidade oferece apoio para estudantes que precisam de acompanhamento psicológico?,fora_dominio,llm
+Onde acontecem as reuniões das atléticas sobre eventos culturais e integração estudantil?,fora_dominio,llm
+Como posso participar dos jogos de tabuleiro organizados pelo centro acadêmico?,fora_dominio,llm
+Você poderia me passar o contato da Proece para tirar dúvidas sobre extensão universitária?,fora_dominio,llm
+Você poderia me recomendar uma receita simples para o jantar?,fora_dominio,llm
+Qual é a previsão do tempo para amanhã em Campo Grande?,fora_dominio,llm
+Como faço para cancelar uma assinatura de streaming?,fora_dominio,llm
+Você sabe onde posso encontrar uma assistência técnica para consertar meu celular?,fora_dominio,llm
+Qual é a melhor forma de remover uma mancha de café da roupa?,fora_dominio,llm
+Poderia me ajudar a escolher um presente de aniversário para minha irmã?,fora_dominio,llm
+Como posso economizar na conta de energia elétrica em casa?,fora_dominio,llm
+Você conhece algum aplicativo gratuito para organizar minhas tarefas pessoais?,fora_dominio,llm
+Que cuidados devo tomar para uma planta de apartamento crescer bem?,fora_dominio,llm
+Você poderia me explicar como solicitar a segunda via da minha conta de água?,fora_dominio,llm
+Como faço pra me inscrever numa turma de cálculo?,fora_dominio,llm
+Qual o horário de atendimento da biblioteca?,fora_dominio,llm
+Tem vaga no ônibus universitário?,fora_dominio,llm
+Como peço o auxílio permanência?,fora_dominio,llm
+Quando abre a inscrição pro restaurante universitário?,fora_dominio,llm
+Onde vejo o calendário de provas?,fora_dominio,llm
+Como faço cadastro no estágio obrigatório?,fora_dominio,llm
+Tem bolsa de iniciação científica?,fora_dominio,llm
+Onde consulto o resultado dos jogos acadêmicos de matemática?,fora_dominio,llm
+Qual setor ajuda com matrícula e disciplinas?,fora_dominio,llm
+Como cancelo uma compra que fiz pela internet?,fora_dominio,llm
+Que horas passa o ônibus no meu bairro?,fora_dominio,llm
+Alguém sabe uma receita fácil de bolo?,fora_dominio,llm
+"Meu celular não conecta no Wi-Fi, o que faço?",fora_dominio,llm
+Onde tem uma farmácia aberta agora?,fora_dominio,llm
+Como tiro mancha de café da roupa?,fora_dominio,llm
+Que série boa pra assistir no fim de semana?,fora_dominio,llm
+"Meu gato tá espirrando, será que levo no veterinário?",fora_dominio,llm
+Qual o melhor jeito de organizar uma mudança?,fora_dominio,llm
+Tem algum app bom pra controlar gastos?,fora_dominio,llm
+como faço inscrição nas turmas de ingles e vejo os horarios,fora_dominio,llm
+qual modalidade de bolsa permanencia posso pedir esse semestre,fora_dominio,llm
+onde atualizo meu cadastro do restaurante universitario,fora_dominio,llm
+tem apoio financeiro pra projeto de iniciação cientifica,fora_dominio,llm
+que horas abre a biblioteca e como faço o cadastro,fora_dominio,llm
+onde vejo os horarios das aulas de calculo,fora_dominio,llm
+como me inscrevo na monitoria e quais turmas tem vaga,fora_dominio,llm
+qual o prazo pra trancar materia no sistema,fora_dominio,llm
+onde fica o setor de atendimento psicologico da ufms,fora_dominio,llm
+quando abre o edital de intercambio e como participar,fora_dominio,llm
+alguem sabe se vai chover hoje no centro,fora_dominio,llm
+como tiro mancha de café da camisa branca,fora_dominio,llm
+qual onibus passa perto do shopping,fora_dominio,llm
+meu celular nao carrega mesmo trocando o cabo oq faço,fora_dominio,llm
+onde tem um mercado barato aberto agora,fora_dominio,llm
+receita facil de almoço com frango e arroz,fora_dominio,llm
+que serie boa pra ver no fim de semana,fora_dominio,llm
+como faço pra recuperar a senha do wifi de casa,fora_dominio,llm
+meu gato ta espirrando muito devo levar no veterinario,fora_dominio,llm
+alguem sabe quanto custa trocar a tela do notebook,fora_dominio,llm
+"Estou tentando me inscrever na turma de inglês do curso de idiomas, mas o sistema não aceita meu CPF. Você sabe como resolver isso?",fora_dominio,llm
+Preciso confirmar o horário das aulas de cálculo e não encontro a grade atualizada. Estou com medo de perder a primeira aula.,fora_dominio,llm
+Minha bolsa de permanência não caiu este mês e o aluguel vence amanhã. Com quem falo sobre o pagamento?,fora_dominio,llm
+"Quero me cadastrar no restaurante universitário, mas meu cartão não libera a entrada. Como faço para regularizar?",fora_dominio,llm
+Estou tentando marcar atendimento psicológico na universidade e não sei onde vejo os horários disponíveis. Você pode me orientar?,fora_dominio,llm
+"Preciso renovar meu passe estudantil para pegar o ônibus até o campus, mas o site está fora do ar. O que faço?",fora_dominio,llm
+"Minha inscrição numa atividade de extensão aparece como pendente, embora eu já tenha enviado os documentos. Como confirmo a vaga?",fora_dominio,llm
+Estou com dificuldade para acessar o portal do aluno e preciso emitir meu histórico ainda hoje. Quem pode me ajudar?,fora_dominio,llm
+"Quero reservar uma sala de estudos na biblioteca, mas não acho o sistema de agendamento. Onde faço isso?",fora_dominio,llm
+Fui aprovado numa bolsa de iniciação científica e preciso saber quais documentos entregar. Você sabe qual setor cuida do cadastro?,fora_dominio,llm
+Perdi o ônibus e tenho uma prova daqui a pouco. Você sabe se tem outro passando perto do campus?,fora_dominio,llm
+Meu celular não conecta ao Wi-Fi da universidade e preciso enviar um trabalho agora. Como resolvo isso rápido?,fora_dominio,llm
+"Estou procurando um quarto para alugar perto da UFMS, mas não conheço os bairros. Você pode sugerir algum?",fora_dominio,llm
+Meu notebook travou antes de eu salvar o relatório. Tem algum jeito rápido de recuperar o arquivo?,fora_dominio,llm
+Estou com uma dor de cabeça forte e ainda preciso estudar para a prova. O que posso fazer para melhorar?,fora_dominio,llm
+Meu cartão foi recusado no mercado e não sei se o problema é o banco ou o aplicativo. Como descubro?,fora_dominio,llm
+Tenho uma entrevista de estágio daqui a uma hora e minha camisa está amassada. Alguma solução rápida?,fora_dominio,llm
+A conta de luz do apartamento veio muito mais alta que o normal e o vencimento é amanhã. Como posso contestar?,fora_dominio,llm
+"Meu pacote aparece como entregue, mas não está na portaria nem com os vizinhos. O que faço agora?",fora_dominio,llm
+Estou tentando cozinhar arroz pela primeira vez e não sei quanta água colocar. Pode me explicar?,fora_dominio,llm
+Horário das aulas,fora_dominio,llm
+Inscrição em disciplinas,fora_dominio,llm
+Bolsa permanência,fora_dominio,llm
+Cadastro no restaurante universitário,fora_dominio,llm
+Turmas de inglês,fora_dominio,llm
+Calendário acadêmico,fora_dominio,llm
+Atendimento psicológico,fora_dominio,llm
+Emissão de histórico,fora_dominio,llm
+Auxílio transporte,fora_dominio,llm
+Reserva de sala de aula,fora_dominio,llm
+Previsão do tempo,fora_dominio,llm
+Receita de bolo,fora_dominio,llm
+Conserto da torneira,fora_dominio,llm
+Conta de luz,fora_dominio,llm
+Aluguel de apartamento,fora_dominio,llm
+Ônibus para o centro,fora_dominio,llm
+Farmácia aberta agora,fora_dominio,llm
+Senha do Wi-Fi,fora_dominio,llm
+Restaurante barato,fora_dominio,llm
+Dicas de viagem,fora_dominio,llm
