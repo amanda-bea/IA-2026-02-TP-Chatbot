@@ -13,18 +13,21 @@
 
 | Ferramenta (nome e versão/modelo) | Como acessaram | Quem usou |
 |---|---|---|
-| Google Gemini (interface web) | Navegador | Maria Eduarda da Silva Gonçalves |
+| Google Gemini (interface web/4 Hydrogen) | Navegador | Maria Eduarda da Silva Gonçalves |
+| Claude (interface web/Claude Sonnet 5.5) | Navegador | Maria Eduarda da Silva Gonçalves |
+
 
 ## 2. Usos, um por linha
 
 | # | Etapa | O que a IA fez | Prompt (ou resumo + link para o registro) | O que o grupo fez com o resultado |
 |---|---|---|---|---|
-| 1 | Documentação das fontes (`FONTES.md`) | Apenas formatou e organizou em tabela Markdown os caminhos, links, números de editais e descrições fornecidos pelo grupo, associando corretamente cada informação ao seu respectivo arquivo | *"mande tudo aqui com o link"* / *"ajuste a ordem"* (com envio manual pelo grupo dos caminhos, links e números de editais de cada arquivo) | Revisamos toda a tabela formatada, conferimos a correspondência de cada arquivo e salvamos no arquivo `documentos/FONTES.md` |
+
+| 1 | Documentação das fontes (`FONTES.md`) | Formatar em tabela Markdown os caminhos e links dos documentos obtidos pelo grupo | *"dado esses caminhos e esse link da url, retorne uma tabela seguindo o padrão em anexo"* / | Revisou o retorno das informações 
+
 
 ## 3. O que NÃO foi feito com IA
 
-Toda a busca e definição dos caminhos nos portais da PROECE/UFMS e Boletim Oficial; a seleção e o download dos 38 arquivos PDF e TXT (incluindo o contato com as Associações Atléticas Acadêmicas para obtenção dos regulamentos internos); a extração manual dos números de cada edital e conteúdos dos documentos; [complementar com as demais etapas feitas sem IA pelo grupo, como: definição das intenções, criação das frases de treino e teste, implementação/ajustes do código do chatbot, análise dos erros e redação das conclusões].
+Busca dos documentos
 
 ## 4. Reflexão (2 a 4 frases)
 
-A IA foi utilizada para agilizar a formatação e organização em tabela Markdown do arquivo `documentos/FONTES.md`, associando cada arquivo aos respectivos caminhos, links e números de editais que foram previamente levantados e fornecidos pelo grupo. Como a ferramenta não consegue abrir arquivos compactados em `.zip`, o grupo precisou extrair e enviar manualmente os dados de cada documento para que ela realizasse a padronização visual conforme solicitado. Ao final, conferimos cada linha da tabela para garantir a precisão antes de salvar no repositório.
