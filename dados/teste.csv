@@ -1,30 +1,21 @@
 texto,intencao,origem
 que dia que são as aulas de natação?,modalidades_treinos,humano
-tem lutas marciais na ufms,modalidades_treinos,humano
 Quais dias posso usar a piscina,modalidades_treinos,humano
 Existe equipe de natação ou piscina disponível?,modalidades_treinos,humano
-Quais são as modalidades/esportes nas quais temos aulas voltadas para a comunidade externa na UFMS?,modalidades_treinos,humano
 Quais os horários disponíveis para a natação?,modalidades_treinos,humano
 Teria aulas de natação?,modalidades_treinos,humano
-Quais esportes tem de graça?,modalidades_treinos,humano
 Como funciona treino de ciclismo?,modalidades_treinos,humano
 Quais dias tem treino de natação?,modalidades_treinos,humano
 Onde eu vejo os horários dos treinos desse semestre?,modalidades_treinos,humano
-"Manda a tabela de horários dos esportes da Proece, por favor.",modalidades_treinos,humano
 Tem algum esporte pra fazer à noite?,modalidades_treinos,humano
 Qual que é o link para a grade de horários da musculação para o primeiro semestre de 2026?,modalidades_treinos,humano
-Que horários estão disponíveis para musculação na Academia-Escola?,modalidades_treinos,humano
 Existem esportes na UFMS que é acessível ao público?,modalidades_treinos,humano
 "Nunca nadei na vida, tem turma pra iniciante de natação?",modalidades_treinos,humano
-Quais modalidades esportivas são ofertadas pela proece?,modalidades_treinos,humano
 Quais opções de grupos esportivos eu posso participar na UFMS?,modalidades_treinos,humano
 Quais opções de esporte a UFMS oferece?,modalidades_treinos,humano
-Quais opções de lazer a UFMS oferece?,modalidades_treinos,humano
-Quais são as atividades de lazer a universidade oferecem?,modalidades_treinos,humano
 Como eu faço pra participar da academia da UFMS?,inscricao_programa,humano
 como faz pra ir na piscina da ufms,inscricao_programa,humano
 como faz pra ir na academia da ufms,inscricao_programa,humano
-Como posso participar das aulas de natação da UFMS?,inscricao_programa,humano
 quando abrem os editais para acesso à academia da UFMS?,inscricao_programa,humano
 onde posso me inscrever pra natação?,inscricao_programa,humano
 O que é o PULSE?,inscricao_programa,humano
@@ -32,14 +23,12 @@ Como realizar natação na UFMS?,inscricao_programa,humano
 Como faço para entrar no pilates esse ano?,inscricao_programa,humano
 Ainda dá para acessar a o edital de pilates de 2025?,inscricao_programa,humano
 Quem pode se inscrever no edital de pilates para 2026.2?,inscricao_programa,humano
-Preciso apresentar algum exame de saúde para fazer musculação na UFMS?,inscricao_programa,humano
 Como que funciona o critério de desempate ou seleção caso tenha mais inscritos que vagas no pilates?,inscricao_programa,humano
 Para fazer musculação tem alguma taxa ou mensalidade?,inscricao_programa,humano
 "Sou comunidade externa, posso participar da seleção da academia escola?",inscricao_programa,humano
 Como faço pra me inscrever nos treinos da UFMS?,inscricao_programa,humano
 Já abriu o edital do PULSE pra entrar nas turmas?,inscricao_programa,humano
 Onde eu faço a matrícula na natação?,inscricao_programa,humano
-Como se inscrever na aula de dança da UFMS?,inscricao_programa,humano
 A natação da UFMS é aberta ao público em geral?,inscricao_programa,humano
 Tenho 16 anos posso me inscrever no taekwondo?,inscricao_programa,humano
 Como funciona o processo de inscrição nas modalidades esportivas da Proece?,inscricao_programa,humano
@@ -47,217 +36,12 @@ Quais os requisitos pra participar das turmas do PULSE?,inscricao_programa,human
 Quais são os requisitos obrigatórios pra conseguir se inscrever nas turmas da PULSE?,inscricao_programa,humano
 A inscrição nos treinos da UFMS tem algum custo ou é tudo de graça?,inscricao_programa,humano
 Precisa comprovar vínculo com a UFMS na hora da inscrição das modalidades da pulse ou qualquer pessoa pode entrar?,inscricao_programa,humano
-Se eu trancar a matrícula consigo participar das atividades de esportes?,inscricao_programa,humano
 Como fazer para participar delas?,inscricao_programa,humano
 Os esportes da universidade são abertas ao público?,inscricao_programa,humano
 Qual o procedimento para a comunidade externa participar?,inscricao_programa,humano
 A atlética da FACOM realiza a seleção pra montar o time de vôlei?,atleticas,humano
 como eu faço o cadastro da atlética do meu curso na UFMS?,atleticas,humano
 qual são os documentos exigidos pro recadastro das atléticas junto à Proece?,atleticas,humano
-"Nesse edital, quais são os principais para participar da partida",competicoes_jogos,humano
-Como funciona a seleção de atletas para representação a UFMS no JUMS no ciclismo?,competicoes_jogos,humano
-Como me inscrever para o jubs?,competicoes_jogos,humano
-Qual atlética é a atual campeã dos jogos da UFMS?,competicoes_jogos,humano
-quando tem competição da uf?,competicoes_jogos,humano
-O que é LAUFMS?,competicoes_jogos,humano
-Quais as regras para os jogos do jiufms?,competicoes_jogos,humano
-Quais regras para corrida de 5km?,competicoes_jogos,humano
-Como funciona o levantamento de taça da UFMS?,competicoes_jogos,humano
-Qual regulamento da caminhada?,competicoes_jogos,humano
-qual a data dos jogos?,competicoes_jogos,humano
-onde serão os jogos?,competicoes_jogos,humano
-Como funciona a inscrição e as regras da Volta UFMS desse ano?,competicoes_jogos,humano
-Qual o percurso e as regras da corrida de 5 km e da caminhada?,competicoes_jogos,humano
-Quais modalidades estão valendo no JIUFMS 2026?,competicoes_jogos,humano
-Como funciona o sistema de pontuação e classificação geral do JUMS Atléticas?,competicoes_jogos,humano
-Quais documentos os atletas precisam apresentar na mesa antes dos jogos do JUMS?,competicoes_jogos,humano
-quais as regras vôlei do JIUFMS?,competicoes_jogos,humano
-a volta UFMS tem categoria aberta para a comunidade externa ou é exclusiva para acadêmicos e servidores?,competicoes_jogos,humano
-como a atlética do meu curso faz para confirmar a participação nas modalidades coletivas do JUMS Atléticas?,competicoes_jogos,humano
-Qual é o critério de desempate no JIUFMS?,competicoes_jogos,humano
-Quais são as punições do JIUFMS em caso de conduta antidesportiva?,competicoes_jogos,humano
-como funciona o desafio das atléticas?,competicoes_jogos,humano
-Há possibilidade de convidar pessoas que não são estudantes da UFMS para participarem de eventos esportivos?,competicoes_jogos,humano
-"de o significado de jubs, laufms.",competicoes_jogos,humano
-Quais são os campeonatos de atlética?,competicoes_jogos,humano
-Requisitos pra pedir auxilio atleta,apoio_atletas,humano
-Como posso conseguir auxílio médico sendo atleta da UFMS?,apoio_atletas,humano
-Como funciona o auxílio atleta,apoio_atletas,humano
-como concorrer ao auxílio atleta na UFMS?,apoio_atletas,humano
-existem editais pra receber auxílio como atleta?,apoio_atletas,humano
-Quais critérios para conseguir auxílio no JUBs?,apoio_atletas,humano
-Quais critérios para conseguir auxílio atleta?,apoio_atletas,humano
-Como faço para ganhar o auxílio atleta?,apoio_atletas,humano
-onde encontro os editais de auxilio?,apoio_atletas,humano
-Quando abrem as inscrições para bolsa atleta?,apoio_atletas,humano
-"A UFMS oferece equipe médica para os atletas de ciclismo, caso se machuquem?",apoio_atletas,humano
-Os editais de auxílio atleta saem em que época do ano e de quanto em quanto tempo ao ano.,apoio_atletas,humano
-Como funciona a reserva de quadras?,espacos_esportivos,humano
-Como reservar quadra,espacos_esportivos,humano
-Onde posso reservar quadras?,espacos_esportivos,humano
-O moreninho pode ser reservado por quem?,espacos_esportivos,humano
-"Como seria o que precisaria para jogar aí badminton. É preciso reservar a quadra, ou edital",espacos_esportivos,humano
-Teria reserva da quadra no dia 30/02/2027?,espacos_esportivos,humano
-Como faço pra agendar horário pra usar as quadras da UFMS?,espacos_esportivos,humano
-Precisa agendar pra jogar vôlei nas quadras no domingo de manhã?,espacos_esportivos,humano
-Onde eu consulto a agenda do Ginásio Moreninho pra ver se tem horário livre?,espacos_esportivos,humano
-Da pra usar a quadra de areia sem reservar antes se ela estiver vazia?,espacos_esportivos,humano
-Qual o horário de funcionamento das quadras de segunda a sexta e no sábado?,espacos_esportivos,humano
-Como faço pra reservar a quadra poliesportiva da UFMS?,espacos_esportivos,humano
-Onde eu olho a agenda do Ginásio Moreninho pra ver se tá livre hoje?,espacos_esportivos,humano
-vc sabe qual a diferença entre a quadra de tênis 1 e a quadra de tênis 2 na hora de agendar?,espacos_esportivos,humano
-da pra reservar a quadra de vôlei pra jogar com a galera de noite?,espacos_esportivos,humano
-como funciona pra reservar a quadra de areia pro beach tênis?,espacos_esportivos,humano
-Quais espaços esportivos a UFMS tem disponíveis pra reserva?,espacos_esportivos,humano
-A quadra poliesportiva fica aberta no sábado de manhã pra uso?,espacos_esportivos,humano
-Qual o horário de funcionamento da quadra de vôlei?,espacos_esportivos,humano
-Quem é o responsável direto para reserva da quadra de vôlei?,espacos_esportivos,humano
-Como faço para reservar quadras e quais documentos são necessários?,espacos_esportivos,humano
-Como eu reservo uma quadra na ufms?,espacos_esportivos,humano
-Tem algum e-mail da Proece pra tirar dúvida sobre o agendamento das quadras?,contato_proece,humano
-Thankss,chitchat,humano
-obrigado,chitchat,humano
-bom dia,chitchat,humano
-Oioi chat,chitchat,humano
-Obrigado gênio,chitchat,humano
-"Tamo junto, robô",chitchat,humano
-valeu chatbot,chitchat,humano
-Muito obrigada fiquei muito confusa não sabia bem o que responder mas creio que seja isso obrigada.,chitchat,humano
-"Olá, boa tarde",chitchat,humano
-"fala ai meu casquinha de bala, tudo bem?",chitchat,humano
-thanks,chitchat,humano
-obrigada,chitchat,humano
-Legal,chitchat,humano
-É nois,chitchat,humano
-salve,chitchat,humano
-Valeu,chitchat,humano
-vlw,chitchat,humano
-boa tarde,chitchat,humano
-bye bye,chitchat,humano
-gracias MAIA,chitchat,humano
-boa madrugada,chitchat,humano
-brigada maia,chitchat,humano
-Até mais,chitchat,humano
-obrigadu,chitchat,humano
-joia,chitchat,humano
-tchau,chitchat,humano
-"affs, tchau!!!!!!",chitchat,humano
-Tmj,chitchat,humano
-gratiluz,chitchat,humano
-bjos,chitchat,humano
-obgg,chitchat,humano
-vlww,chitchat,humano
-<3,chitchat,humano
-vlw man,chitchat,humano
-Muito obrigada!,chitchat,humano
-brigada,chitchat,humano
-obg,chitchat,humano
-"Parabéns UFMS por dar atenção aos estudantes, quando necessitam.",chitchat,humano
-Estudar na UFMS é maravilhoso. Somos bem acolhidos.,chitchat,humano
-A UFMS é top mano,chitchat,humano
-Grata sr robô.,chitchat,humano
-vc consegue me ajudar com um negócio?,chitchat,humano
-Obrigado.,chitchat,humano
-Bom diaaaaaa!!! É DIA DE ALEGRIAAAAA,chitchat,humano
-Chat que sabe dizer se os laboratórios do inbio vão tá funcionando amanhã?,fora_dominio,humano
-Chat até q hrs vai tá funcionando a biblioteca durante essa semana?,fora_dominio,humano
-cardapio janta ru,fora_dominio,humano
-como validar estagio engenharia de software,fora_dominio,humano
-Como resetar minha senha na biblioteca,fora_dominio,humano
-Posso usar a biblioteca nao tendo mais matricula ativa na universidade?,fora_dominio,humano
-O que tem de almoco hj no RU,fora_dominio,humano
-Qual o melhor tênis para começar a correr?,fora_dominio,humano
-Qual o almoço no RU hoje?,fora_dominio,humano
-Me passa uma receita de bolo de caneca de chocolate,fora_dominio,humano
-A biblioteca pode ser utilizada por visitantes sem vínculos com a UFMS?,fora_dominio,humano
-Existem ambientes para estudos na UFMS além da biblioteca?,fora_dominio,humano
-onde acessar o cardio do ru?,fora_dominio,humano
-Horário de fechamento da biblioteca,fora_dominio,humano
-Como validar horas de estágio obrigatório?,fora_dominio,humano
-Onde fica a reitoria?,fora_dominio,humano
-Gosto de tudo na biblioteca e não gosto muito tô do eles servem na universidade federal na lanchonetes.,fora_dominio,humano
-quando começam as matrículas do primeiro semestre de 2027?,fora_dominio,humano
-como enviar meu trabalho para o integra UFMS?,fora_dominio,humano
-oi tem comida no ru hoje?,fora_dominio,humano
-chat abrir o cardapio do ru,fora_dominio,humano
-Como conseguir auxílio moradia da UFMS?,fora_dominio,humano
-Como pagar R$3 no RU?,fora_dominio,humano
-Quando começa às rematrículas?,fora_dominio,humano
-Como mudar de curso?,fora_dominio,humano
-Onde fica a FACOM?,fora_dominio,humano
-Como regulamentar estágio?,fora_dominio,humano
-O que é RU?,fora_dominio,humano
-Quais os horários de funcionamento da biblioteca?,fora_dominio,humano
-onde fica o restaurante universitário?,fora_dominio,humano
-como chego na facom?,fora_dominio,humano
-Disponibilidade de auditório.,fora_dominio,humano
-Palestras gratuitas.,fora_dominio,humano
-"Esqueci minha garrafinha e minha touca nas quadras ontem, tem achados e perdidos?",fora_dominio,humano
-Tem armário com cadeado lá perto das quadras de areia pra guardar a mochila durante o treino?,fora_dominio,humano
-"Choveu agora pouco, a quadra de areia tá alagada ou dá pra treinar normal?",fora_dominio,humano
-Quem é o presidente da atlética da FACOM agora pra eu pedir pra entrar no grupo do whats?,fora_dominio,humano
-Quando sai o resultado da seletiva de vôlei que a atlética da FACOM fez ontem?,fora_dominio,humano
-Se eu faltar no primeiro dia de treino da vôlei eu perco a vaga pra lista de espera?,fora_dominio,humano
-Qual ônibus me deixa mais perto das quadras?,fora_dominio,humano
-Pode levar caixa de som JBL pra quadra de areia enquanto a gente treina?,fora_dominio,humano
-Posso levar um amigo que não estuda na UFMS só pra assistir meu treino na arquibancada?,fora_dominio,humano
-Onde a bateria da atlética da FACOM ensaia?,fora_dominio,humano
-Vai ter ônibus da UFMS levando a torcida pros jogos do fim de semana ou não tem isso na UFMS?,fora_dominio,humano
-Como ingressar no mestrado?,fora_dominio,humano
-Cursos EAD,fora_dominio,humano
-Como funciona a inscrição na bolsa de extensão da proece?,fora_dominio,humano
-Precisa ter bicicleta própria pra entrar na turma de ciclismo ou eles emprestam?,fora_dominio,humano
-A rede da quadra de areia já fica montada lá ou tem que pegar em algum lugar?,fora_dominio,humano
-Já saiu o edital pra entrar na turma avançada de teatro da UFMS?,fora_dominio,humano
-Como funciona a inscrição nas oficinas de fotografia e cinema?,fora_dominio,humano
-Onde eu vejo o edital com as vagas pro curso de Libras aberto pra servidores e alunos?,fora_dominio,humano
-Como eu me inscrevo naquele programa de saúde mental oferecido pros estudantes?,fora_dominio,humano
-Como eu faço para me inscrever no edital de bolsa de extensão da proece?,fora_dominio,humano
-Qual é o valor mensal que a UFMS paga para os bolsistas de extensão da proece?,fora_dominio,humano
-Precisa estar regularmente matriculado em qual curso para poder pegar a bolsa de extensão da proece?,fora_dominio,humano
-Onde encontro o cronograma com as etapas do processo do programa de estágio da ufms?,fora_dominio,humano
-Qual o valor da bolsa auxílio paga para os estagiários de nível superior que atuam na agetic?,fora_dominio,humano
-Tem algum esporte alternativo para melhorar no desempenho da musculação?,fora_dominio,humano
-Auxílio alimentação,fora_dominio,humano
-Trancamento de matrícula,fora_dominio,humano
-Horário dos ônibus,fora_dominio,humano
-Como faço pra fazer o agendamento prévio de horário pra usar o laboratório de informática da facom no sábado?,fora_dominio,humano
-Onde eu consulto a agenda de disponibilidade pra reservar o glauce rocha?,fora_dominio,humano
-O que eu preciso levar pra poder entrar na piscina no domingo?,fora_dominio,humano
-Qual o limite de horas por mês que uma pessoa pode ir na biblioteca?,fora_dominio,humano
-Que horas abre o portão perto do Lago do Amor nos domingos em que tem prova de concurso público?,fora_dominio,humano
-Quais dias e horários a biblioteca central fica aberta?,fora_dominio,humano
-Se eu quiser reservar o auditório da FACOM preciso falar com quem?,fora_dominio,humano
-Qual bloco fica perto atrás das quadras de tênis?,fora_dominio,humano
-o businho para bem em frente ao Ginásio Moreninho?,fora_dominio,humano
-Vai ter colação de grau no Ginásio Moreninho nesse semestre ou vai ser no Teatro Glauce Rocha?,fora_dominio,humano
-A feira de profissões da UFMS vai acontecer nas quadras?,fora_dominio,humano
-Onde eu baixo o regulamento da biblioteca pra saber o prazo de devolução de livros?,fora_dominio,humano
-Como funciona a entrega de certificado para quem participou da secomp?,fora_dominio,humano
-Como funciona o sistema de pontuação e classificação geral no processo seletivo do Sisu?,fora_dominio,humano
-Onde tá o regulamento de colação de grau e formatura da UFMS pra esse semestre?,fora_dominio,humano
-Qual é a data limite para os professores enviarem o edital de monitoria no portal acadêmico?,fora_dominio,humano
-Onde eu encontro o mapa da ufms?,fora_dominio,humano
-Como faço para justificar a ausência em aula caso precise competir representando a UFMS nos jogos oficiais?,fora_dominio,humano
-Como faço para justificar falta acadêmica quando estou participando de apresentação de trabalho da ufms?,fora_dominio,humano
-Qual é o critério de desempate na nota final do processo seletivo para o passe da ufms?,fora_dominio,humano
-Como funciona o desafio de empreendedorismo da agetic?,fora_dominio,humano
-Como funciona o processo de seleção para o programa de mobilidade acadêmica internacional?,fora_dominio,humano
-Como faço para acessar segunda via de diplomas de graduação e mestrado.,fora_dominio,humano
-Como consigo acesso aos cardápios da semana do RU?,fora_dominio,humano
-Não estou estudando posso acessar e fazer empréstimo de livros na biblioteca?,fora_dominio,humano
-Dá ver o cardápio do RU na internet.,fora_dominio,humano
-A matrícula pode ser feita pelo Siscad.,fora_dominio,humano
-Qual o procedimento para que a comunidade externa utilize a biblioteca?,fora_dominio,humano
-Qual o procedimento para que a comunidade externa utilize o RU?,fora_dominio,humano
-eu consigo algum auxílio de bolsa sendo atleta da UFMS?,apoio_atletas,humano
-existe algum bolsa material esportivo para os atletas ?,apoio_atletas,humano
-"Quando um atleta se machuca nos jogos da UFMS, existe alguma médico ou enfermeiro presente para ajudá-lo ?",apoio_atletas,humano
-Na UFMS para chegar aos jogos os atletas possuem transporte oferecido pela UFMS ?,apoio_atletas,humano
-Qual são os critérios para conseguir bolsa atleta?,apoio_atletas,humano
-Quais benefícios tenho como atleta na ufms?,apoio_atletas,humano
-Quais atleticas estão envolvidas no JUMS?,competicoes_jogos,humano
-Quais as atléticas que mais ganham títulos na UFMS?,competicoes_jogos,humano
 Como eu posso treinar algum esporte pela atlética?,atleticas,humano
 Qual o nome da atlética de computação?,atleticas,humano
 Quais os cursos que fazem parte da atlética da engenharia?,atleticas,humano
@@ -269,10 +53,64 @@ Qual nome da atlética da faculdade de computação?,atleticas,humano
 como sei a atlética do meu curso?,atleticas,humano
 quais atléticas existem na ufms,atleticas,humano
 quais benefícios uma atlética tem na ufms?,atleticas,humano
+Qual a atlética representada pelas ciências exatas?,atleticas,humano
+"Nesse edital, quais são os principais para participar da partida",competicoes_jogos,humano
+Como funciona a seleção de atletas para representação a UFMS no JUMS no ciclismo?,competicoes_jogos,humano
+Qual atlética é a atual campeã dos jogos da UFMS?,competicoes_jogos,humano
+quando tem competição da uf?,competicoes_jogos,humano
+O que é LAUFMS?,competicoes_jogos,humano
+Quais as regras para os jogos do jiufms?,competicoes_jogos,humano
+Quais regras para corrida de 5km?,competicoes_jogos,humano
+Qual regulamento da caminhada?,competicoes_jogos,humano
+qual a data dos jogos?,competicoes_jogos,humano
+onde serão os jogos?,competicoes_jogos,humano
+Como funciona a inscrição e as regras da Volta UFMS desse ano?,competicoes_jogos,humano
+Qual o percurso e as regras da corrida de 5 km e da caminhada?,competicoes_jogos,humano
+Como funciona o sistema de pontuação e classificação geral do JUMS Atléticas?,competicoes_jogos,humano
+Quais documentos os atletas precisam apresentar na mesa antes dos jogos do JUMS?,competicoes_jogos,humano
+quais as regras vôlei do JIUFMS?,competicoes_jogos,humano
+a volta UFMS tem categoria aberta para a comunidade externa ou é exclusiva para acadêmicos e servidores?,competicoes_jogos,humano
+Qual é o critério de desempate no JIUFMS?,competicoes_jogos,humano
+Quais são as punições do JIUFMS em caso de conduta antidesportiva?,competicoes_jogos,humano
+como funciona o desafio das atléticas?,competicoes_jogos,humano
+Há possibilidade de convidar pessoas que não são estudantes da UFMS para participarem de eventos esportivos?,competicoes_jogos,humano
+"de o significado de jubs, laufms.",competicoes_jogos,humano
+Quais atleticas estão envolvidas no JUMS?,competicoes_jogos,humano
+Quais as atléticas que mais ganham títulos na UFMS?,competicoes_jogos,humano
+Requisitos pra pedir auxilio atleta,apoio_atletas,humano
+Como posso conseguir auxílio médico sendo atleta da UFMS?,apoio_atletas,humano
+Como funciona o auxílio atleta,apoio_atletas,humano
+existem editais pra receber auxílio como atleta?,apoio_atletas,humano
+Quais critérios para conseguir auxílio no JUBs?,apoio_atletas,humano
+Quais critérios para conseguir auxílio atleta?,apoio_atletas,humano
+Como faço para ganhar o auxílio atleta?,apoio_atletas,humano
+onde encontro os editais de auxilio?,apoio_atletas,humano
+"A UFMS oferece equipe médica para os atletas de ciclismo, caso se machuquem?",apoio_atletas,humano
+Os editais de auxílio atleta saem em que época do ano e de quanto em quanto tempo ao ano.,apoio_atletas,humano
+eu consigo algum auxílio de bolsa sendo atleta da UFMS?,apoio_atletas,humano
+existe algum bolsa material esportivo para os atletas ?,apoio_atletas,humano
+"Quando um atleta se machuca nos jogos da UFMS, existe alguma médico ou enfermeiro presente para ajudá-lo ?",apoio_atletas,humano
+Qual são os critérios para conseguir bolsa atleta?,apoio_atletas,humano
+Quais benefícios tenho como atleta na ufms?,apoio_atletas,humano
+Como funciona a reserva de quadras?,espacos_esportivos,humano
+Onde posso reservar quadras?,espacos_esportivos,humano
+O moreninho pode ser reservado por quem?,espacos_esportivos,humano
+Teria reserva da quadra no dia 30/02/2027?,espacos_esportivos,humano
+Como faço pra agendar horário pra usar as quadras da UFMS?,espacos_esportivos,humano
+Onde eu consulto a agenda do Ginásio Moreninho pra ver se tem horário livre?,espacos_esportivos,humano
+Da pra usar a quadra de areia sem reservar antes se ela estiver vazia?,espacos_esportivos,humano
+Qual o horário de funcionamento das quadras de segunda a sexta e no sábado?,espacos_esportivos,humano
+Onde eu olho a agenda do Ginásio Moreninho pra ver se tá livre hoje?,espacos_esportivos,humano
+vc sabe qual a diferença entre a quadra de tênis 1 e a quadra de tênis 2 na hora de agendar?,espacos_esportivos,humano
+como funciona pra reservar a quadra de areia pro beach tênis?,espacos_esportivos,humano
+Quais espaços esportivos a UFMS tem disponíveis pra reserva?,espacos_esportivos,humano
+Qual o horário de funcionamento da quadra de vôlei?,espacos_esportivos,humano
+Quem é o responsável direto para reserva da quadra de vôlei?,espacos_esportivos,humano
+Como eu reservo uma quadra na ufms?,espacos_esportivos,humano
+Tem algum e-mail da Proece pra tirar dúvida sobre o agendamento das quadras?,contato_proece,humano
 Qual o contato para eu conseguir mais informações esportivas na UFMS?,contato_proece,humano
 Por qual meio eu posso falar com o pessoal da PROECE?,contato_proece,humano
 Qual o email da proece,contato_proece,humano
-A proece demora muito para responder meu contato?,contato_proece,humano
 Qual o significado da sigla PROECE?,contato_proece,humano
 O que a proece pode ajudar em relação a esportes ?,contato_proece,humano
 Qual o horário de funcionamento da proece ?,contato_proece,humano
@@ -280,9 +118,99 @@ A proece fica aberta até que horas ?,contato_proece,humano
 Qual email da proece?,contato_proece,humano
 Qual número da proece?,contato_proece,humano
 Onde fica a proece?,contato_proece,humano
-Quais são os horários de atendimento da proece?,contato_proece,humano
 como falo com a proece?,contato_proece,humano
 quais setores tem na proece?,contato_proece,humano
 em que bloco está localizada a proece?,contato_proece,humano
 qual o whatsapp da proece,contato_proece,humano
-Qual a atlética representada pelas ciências exatas?,atleticas,humano
+Thankss,chitchat,humano
+Oioi chat,chitchat,humano
+"Tamo junto, robô",chitchat,humano
+valeu chatbot,chitchat,humano
+"Olá, boa tarde",chitchat,humano
+"fala ai meu casquinha de bala, tudo bem?",chitchat,humano
+thanks,chitchat,humano
+Legal,chitchat,humano
+É nois,chitchat,humano
+Valeu,chitchat,humano
+vlw,chitchat,humano
+bye bye,chitchat,humano
+gracias MAIA,chitchat,humano
+brigada maia,chitchat,humano
+Até mais,chitchat,humano
+joia,chitchat,humano
+tchau,chitchat,humano
+Tmj,chitchat,humano
+gratiluz,chitchat,humano
+obgg,chitchat,humano
+vlww,chitchat,humano
+<3,chitchat,humano
+Muito obrigada!,chitchat,humano
+brigada,chitchat,humano
+Chat que sabe dizer se os laboratórios do inbio vão tá funcionando amanhã?,fora_dominio,humano
+cardapio janta ru,fora_dominio,humano
+como validar estagio engenharia de software,fora_dominio,humano
+Posso usar a biblioteca nao tendo mais matricula ativa na universidade?,fora_dominio,humano
+O que tem de almoco hj no RU,fora_dominio,humano
+Qual o almoço no RU hoje?,fora_dominio,humano
+Me passa uma receita de bolo de caneca de chocolate,fora_dominio,humano
+Existem ambientes para estudos na UFMS além da biblioteca?,fora_dominio,humano
+onde acessar o cardio do ru?,fora_dominio,humano
+Como validar horas de estágio obrigatório?,fora_dominio,humano
+Onde fica a reitoria?,fora_dominio,humano
+quando começam as matrículas do primeiro semestre de 2027?,fora_dominio,humano
+como enviar meu trabalho para o integra UFMS?,fora_dominio,humano
+chat abrir o cardapio do ru,fora_dominio,humano
+Como conseguir auxílio moradia da UFMS?,fora_dominio,humano
+Quando começa às rematrículas?,fora_dominio,humano
+Como mudar de curso?,fora_dominio,humano
+Como regulamentar estágio?,fora_dominio,humano
+O que é RU?,fora_dominio,humano
+onde fica o restaurante universitário?,fora_dominio,humano
+como chego na facom?,fora_dominio,humano
+Palestras gratuitas.,fora_dominio,humano
+"Esqueci minha garrafinha e minha touca nas quadras ontem, tem achados e perdidos?",fora_dominio,humano
+"Choveu agora pouco, a quadra de areia tá alagada ou dá pra treinar normal?",fora_dominio,humano
+Quem é o presidente da atlética da FACOM agora pra eu pedir pra entrar no grupo do whats?,fora_dominio,humano
+Se eu faltar no primeiro dia de treino da vôlei eu perco a vaga pra lista de espera?,fora_dominio,humano
+Qual ônibus me deixa mais perto das quadras?,fora_dominio,humano
+Posso levar um amigo que não estuda na UFMS só pra assistir meu treino na arquibancada?,fora_dominio,humano
+Onde a bateria da atlética da FACOM ensaia?,fora_dominio,humano
+Como ingressar no mestrado?,fora_dominio,humano
+Cursos EAD,fora_dominio,humano
+Como funciona a inscrição na bolsa de extensão da proece?,fora_dominio,humano
+A rede da quadra de areia já fica montada lá ou tem que pegar em algum lugar?,fora_dominio,humano
+Já saiu o edital pra entrar na turma avançada de teatro da UFMS?,fora_dominio,humano
+Onde eu vejo o edital com as vagas pro curso de Libras aberto pra servidores e alunos?,fora_dominio,humano
+Como eu me inscrevo naquele programa de saúde mental oferecido pros estudantes?,fora_dominio,humano
+Qual é o valor mensal que a UFMS paga para os bolsistas de extensão da proece?,fora_dominio,humano
+Precisa estar regularmente matriculado em qual curso para poder pegar a bolsa de extensão da proece?,fora_dominio,humano
+Qual o valor da bolsa auxílio paga para os estagiários de nível superior que atuam na agetic?,fora_dominio,humano
+Tem algum esporte alternativo para melhorar no desempenho da musculação?,fora_dominio,humano
+Trancamento de matrícula,fora_dominio,humano
+Horário dos ônibus,fora_dominio,humano
+Onde eu consulto a agenda de disponibilidade pra reservar o glauce rocha?,fora_dominio,humano
+O que eu preciso levar pra poder entrar na piscina no domingo?,fora_dominio,humano
+Que horas abre o portão perto do Lago do Amor nos domingos em que tem prova de concurso público?,fora_dominio,humano
+Quais dias e horários a biblioteca central fica aberta?,fora_dominio,humano
+Qual bloco fica perto atrás das quadras de tênis?,fora_dominio,humano
+o businho para bem em frente ao Ginásio Moreninho?,fora_dominio,humano
+A feira de profissões da UFMS vai acontecer nas quadras?,fora_dominio,humano
+Onde eu baixo o regulamento da biblioteca pra saber o prazo de devolução de livros?,fora_dominio,humano
+Como funciona o sistema de pontuação e classificação geral no processo seletivo do Sisu?,fora_dominio,humano
+Onde tá o regulamento de colação de grau e formatura da UFMS pra esse semestre?,fora_dominio,humano
+Onde eu encontro o mapa da ufms?,fora_dominio,humano
+Como faço para justificar a ausência em aula caso precise competir representando a UFMS nos jogos oficiais?,fora_dominio,humano
+Qual é o critério de desempate na nota final do processo seletivo para o passe da ufms?,fora_dominio,humano
+Como funciona o desafio de empreendedorismo da agetic?,fora_dominio,humano
+Como faço para acessar segunda via de diplomas de graduação e mestrado.,fora_dominio,humano
+Como consigo acesso aos cardápios da semana do RU?,fora_dominio,humano
+Dá ver o cardápio do RU na internet.,fora_dominio,humano
+Qual o procedimento para que a comunidade externa utilize o RU?,fora_dominio,humano
+Quais opções de lazer a UFMS oferece?,modalidades_treinos,humano
+boa tarde,chitchat,humano
+obg,chitchat,humano
+obrigada,chitchat,humano
+Qual o procedimento para que a comunidade externa utilize a biblioteca?,fora_dominio,humano
+obrigado,chitchat,humano
+obrigadu,chitchat,humano
+Obrigado.,chitchat,humano

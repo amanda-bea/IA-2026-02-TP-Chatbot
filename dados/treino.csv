@@ -8,19 +8,19 @@ hahaha boa essa,chitchat,llm
 Quais as informações importantes que são pré requisitos para conseguir o bolsa atleta?,apoio_atletas,humano
 Preciso fazer um cadastro novo ou posso usar meus dados de estudante que já estão no sistema? Estou tentando terminar a inscrição agora.,inscricao_programa,llm
 Estou com pouco tempo e preciso tirar uma dúvida geral sobre esportes na UFMS. A Proece atende por WhatsApp ou só por e-mail?,contato_proece,llm
-como vai estar o tempo amanhã,fora_dominio,massive
+como vai estar o tempo amanhã,fora_dominio,llm
 onde consigo ver os resultados dos jogos universitarios,competicoes_jogos,llm
-que horas são em nova iorque agora,fora_dominio,massive
+que horas são em nova iorque agora,fora_dominio,llm
 "hahaha, boa!",chitchat,llm
 kkkkkkkk,chitchat,llm
 "Preciso pagar despesas da faculdade e do esporte, mas não sei se posso pedir apoio financeiro por ser atleta. Como funciona?",apoio_atletas,llm
 Qual setor ajuda com matrícula e disciplinas?,fora_dominio,llm
 Renovar registro da atlética,atleticas,llm
 como a atlética pode pedir recurso pra organizar atividades,atleticas,llm
-quem canta esta música,fora_dominio,massive
+quem canta esta música,fora_dominio,llm
 quais dias rola treino de basquete,modalidades_treinos,llm
 tem como renovar a bolsa de atleta no proximo semestre,apoio_atletas,llm
-aumenta o volume,fora_dominio,massive
+aumenta o volume,fora_dominio,llm
 Atléticas na UFMS recebem algum auxílio ?,atleticas,humano
 Você poderia me orientar sobre como encontrar as instalações de treino no campus?,espacos_esportivos,llm
 A UFMS oferece auxílio financeiro para cobrir despesas com equipamentos esportivos de estudantes-atletas?,apoio_atletas,llm
@@ -75,12 +75,12 @@ As quadras cobertas ficam em qual parte do campus?,espacos_esportivos,llm
 A Proece atende presencialmente estudantes que têm dúvidas gerais sobre as ações esportivas da UFMS?,contato_proece,llm
 A universidade oferece bolsas de apoio para estudantes que participam de projetos de pesquisa?,fora_dominio,llm
 "Queria fazer alguma modalidade em dois dias da semana, mas não sei quais oferecem esse horário. Consegue me informar?",modalidades_treinos,llm
-que dia é hoje,fora_dominio,massive
+que dia é hoje,fora_dominio,llm
 A proece demora muito para responder meu contato?,contato_proece,humano
 Onde acho os canais oficiais da Proece?,contato_proece,llm
-quero ouvir música clássica,fora_dominio,massive
+quero ouvir música clássica,fora_dominio,llm
 Tem alguma competição universitária acontecendo essa semana?,competicoes_jogos,llm
-acorda-me às nove da manhã na sexta-feira,fora_dominio,massive
+acorda-me às nove da manhã na sexta-feira,fora_dominio,llm
 Sou atleta da UFMS e estou apertado financeiramente; existe alguma bolsa específica para estudante-atleta?,apoio_atletas,llm
 Você poderia me dizer em quais dias e horários a equipe da Proece atende o público?,contato_proece,llm
 Que chatbot incrível!,chitchat,llm
@@ -97,12 +97,12 @@ As quadras de areia ficam perto de qual bloco?,espacos_esportivos,llm
 Perdi o prazo de inscrição e queria saber se ainda existe alguma forma de participar. Não queria ficar de fora por causa disso.,inscricao_programa,llm
 Preciso encontrar o complexo aquático rapidinho; ele fica perto de qual prédio?,espacos_esportivos,llm
 Preciso apresentar algum exame de saúde para fazer musculação na UFMS?,inscricao_programa,humano
-baixa o volume para vinte,fora_dominio,massive
+baixa o volume para vinte,fora_dominio,llm
 "Ainda estou me acostumando a conversar com um chatbot, mas achei bem tranquilo.",chitchat,llm
 "Como posso saber se minha inscrição no Programa Universitário de Lazer, Saúde e Esporte foi confirmada?",inscricao_programa,llm
 Até mais! Preciso correr para a aula antes que a porta feche.,chitchat,llm
 É necessário renovar o cadastro da atlética a cada ano letivo?,atleticas,llm
-qual é a previsão do tempo para o fim de semana,fora_dominio,massive
+qual é a previsão do tempo para o fim de semana,fora_dominio,llm
 As competições universitárias da UFMS são abertas a estudantes de todos os câmpus?,competicoes_jogos,llm
 Qual é a previsão do tempo para amanhã em Campo Grande?,fora_dominio,llm
 "Kkkkk, essa conversa foi uma pausa boa na minha maratona de trabalhos.",chitchat,llm
@@ -142,7 +142,7 @@ tem apoio financeiro pra projeto de iniciação cientifica,fora_dominio,llm
 Como posso economizar na conta de energia elétrica em casa?,fora_dominio,llm
 Quando rola handebol?,modalidades_treinos,llm
 quais esportes tem aula durante a semana,modalidades_treinos,llm
-o que está a acontecer no mundo,fora_dominio,massive
+o que está a acontecer no mundo,fora_dominio,llm
 "Saiu um edital de fomento e minha atlética quer participar, mas não entendi se precisa estar cadastrada antes de enviar a proposta. Alguém consegue confirmar?",atleticas,llm
 Como a atlética pode pedir recurso pra comprar materiais?,atleticas,llm
 Quando costumam ser publicados os editais de bolsas para estudantes-atletas?,apoio_atletas,llm
@@ -151,14 +151,14 @@ A programação das turmas já saiu? Quero conferir quais modalidades e horário
 A Proece oferece atendimento remoto para estudantes que precisam esclarecer dúvidas gerais sobre esporte?,contato_proece,llm
 como me inscrevo na monitoria e quais turmas tem vaga,fora_dominio,llm
 Gosto de tudo na biblioteca e não gosto muito tô do eles servem na universidade federal na lanchonetes.,fora_dominio,humano
-preciso de um café agora,fora_dominio,massive
+preciso de um café agora,fora_dominio,llm
 Preciso ser atleta para conseguir o bolsa atleta ?,apoio_atletas,humano
 "E aí, bot!",chitchat,llm
 Muito obrigada fiquei muito confusa não sabia bem o que responder mas creio que seja isso obrigada.,chitchat,humano
 Bom dia MAIA,chitchat,humano
 Atualizar diretoria da atlética,atleticas,llm
 a nossa atlética pode atualizar os dados cadastrais,atleticas,llm
-mudar as luzes para azul,fora_dominio,massive
+mudar as luzes para azul,fora_dominio,llm
 A Proece tem horário de atendimento para dúvidas sobre esporte? Preciso saber se consigo falar com alguém ainda nesta semana.,contato_proece,llm
 A Proece atende presencialmente? Qual o horário?,contato_proece,llm
 Como faço pra fazer o agendamento prévio de horário pra usar o laboratório de informática da facom no sábado?,fora_dominio,humano
@@ -171,7 +171,7 @@ Poderia me informar onde ficam as quadras utilizadas para os treinos na UFMS?,es
 Em qual semestre abrem as turmas para o vôlei?,inscricao_programa,humano
 Como me inscrevo?,inscricao_programa,llm
 Para os atletas da UFMS a disponibilidade de reserva de materiais esportivos ?,apoio_atletas,humano
-ligar o aspirador robot,fora_dominio,massive
+ligar o aspirador robot,fora_dominio,llm
 Você foi muito gentil nesta conversa.,chitchat,llm
 Ônibus para o centro,fora_dominio,llm
 quantas atleticas fazem parte da LAUFMS?,atleticas,humano
@@ -253,14 +253,14 @@ qual caminho faço da entrada principal até o complexo aquatico,espacos_esporti
 Aluguel de apartamento,fora_dominio,llm
 valeu mesmo viu,chitchat,llm
 Como tiro mancha de café da roupa?,fora_dominio,llm
-vai chover hoje,fora_dominio,massive
+vai chover hoje,fora_dominio,llm
 Que horas passa o ônibus no meu bairro?,fora_dominio,llm
 Quando será a final?,competicoes_jogos,llm
 Onde vejo os resultados?,competicoes_jogos,llm
 Documentos para bolsa atleta,apoio_atletas,llm
 precisa ter boas notas pra continuar recebendo a bolsa atleta,apoio_atletas,llm
 Onde fica a FACOM?,fora_dominio,humano
-toca uma música da mariza,fora_dominio,massive
+toca uma música da mariza,fora_dominio,llm
 Foi um prazer conversar com você; até mais!,chitchat,llm
 Onde tem uma farmácia aberta agora?,fora_dominio,llm
 "Estou tentando me inscrever na turma de inglês do curso de idiomas, mas o sistema não aceita meu CPF. Você sabe como resolver isso?",fora_dominio,llm
@@ -288,9 +288,9 @@ existe algum apoio pros estudos de quem treina e compete pela ufms,apoio_atletas
 quais as atléticas que tem a maior quantidade de cursos inclusos?,atleticas,humano
 to perdido aqui onde é o complexo aquatico,espacos_esportivos,llm
 Quem da Proece cuida dos assuntos de esporte?,contato_proece,llm
-pede uma pizza,fora_dominio,massive
+pede uma pizza,fora_dominio,llm
 Como funciona a pontuação na Copa Interatléticas quando duas equipes terminam empatadas? Não achei essa regra e o próximo jogo é decisivo.,competicoes_jogos,llm
-liga a máquina de café,fora_dominio,massive
+liga a máquina de café,fora_dominio,llm
 Quais são os dias e os horários para participar do jiu-jitsu na UFMS ?,modalidades_treinos,humano
 Quais são as atléticas que a UFMS possui ?,atleticas,humano
 A biblioteca pode ser utilizada por visitantes sem vínculos com a UFMS?,fora_dominio,humano
@@ -428,7 +428,7 @@ vc consegue me ajudar com um negócio?,chitchat,humano
 Quais são as modalidades/esportes nas quais temos aulas voltadas para a comunidade externa na UFMS?,modalidades_treinos,humano
 Onde acontecem as reuniões das atléticas sobre eventos culturais e integração estudantil?,fora_dominio,llm
 As quadras de treino ficam próximas a algum prédio ou entrada específica do campus?,espacos_esportivos,llm
-diz-me uma anedota,fora_dominio,massive
+diz-me uma anedota,fora_dominio,llm
 A quadra poliesportiva fica aberta no sábado de manhã pra uso?,espacos_esportivos,humano
 A atlética precisa ter estatuto e diretoria eleita para ser reconhecida pela universidade?,atleticas,llm
 Quais despesas podem ser incluídas em uma proposta de fomento para a atlética?,atleticas,llm
@@ -503,7 +503,7 @@ Telefone da Proece,contato_proece,llm
 quem é o representante da proece?,contato_proece,humano
 tem lutas marciais na ufms,modalidades_treinos,humano
 Onde vejo os resultados das partidas da Copa?,competicoes_jogos,llm
-aspirar a casa,fora_dominio,massive
+aspirar a casa,fora_dominio,llm
 Bolsa atleta UFMS,apoio_atletas,llm
 Se eu quiser reservar o auditório da FACOM preciso falar com quem?,fora_dominio,humano
 não to conseguindo achar onde me inscrevo no pulse pode me orientar,inscricao_programa,llm
@@ -533,10 +533,10 @@ Como faço pra me inscrever numa turma de cálculo?,fora_dominio,llm
 Treino de basquete,modalidades_treinos,llm
 Estou perto da biblioteca e com pressa; como faço para chegar às quadras de areia?,espacos_esportivos,llm
 "Como faço minha inscrição no Programa Universitário de Lazer, Saúde e Esporte?",inscricao_programa,llm
-desligar as luzes da sala,fora_dominio,massive
+desligar as luzes da sala,fora_dominio,llm
 que horas abre a biblioteca e como faço o cadastro,fora_dominio,llm
 Atendimento psicológico,fora_dominio,llm
-define um alarme para as quatro da tarde,fora_dominio,massive
+define um alarme para as quatro da tarde,fora_dominio,llm
 Tem algum apoio pra conciliar estudos e vida de atleta?,apoio_atletas,llm
 "Você é muito paciente comigo, ainda mais quando estou toda atrapalhada.",chitchat,llm
 Onde fica a entrada mais próxima das quadras da UFMS? Estou rodando pelo campus e não encontro.,espacos_esportivos,llm
@@ -599,3 +599,4 @@ Disponibilidade de auditório.,fora_dominio,humano
 "Até breve, e tenha um ótimo dia!",chitchat,llm
 Turmas de natação?,modalidades_treinos,llm
 Tem algum mapa mostrando onde estão os espaços de treino?,espacos_esportivos,llm
+

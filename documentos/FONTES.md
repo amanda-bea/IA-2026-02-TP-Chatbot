@@ -1,8 +1,5 @@
 # Fontes dos documentos
 
-TODO: uma linha por documento - arquivo, origem (URL e data de acesso, setor que
-forneceu, ou "escrito pelo grupo com base em ...").
-
 | arquivo | origem |
 | --- | --- |
 | `apoio_atletas/auxilio_financeiro_jubs_2026.pdf` | Disponível em: https://proece.ufms.br/edital-no-363-2026-proece-ufms-auxilio-financeiro-a-estudantes-classificados-para-os-jogos-universitarios-brasileiros-jubs-2026/ (Acesso em: 17/11/2026) |
