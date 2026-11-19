@@ -1,0 +1,426 @@
+{
+  "grupo": "MAIA",
+  "tema": "Esportes na UFMS",
+  "intencoes": [
+    "modalidades_treinos",
+    "inscricao_programa",
+    "atleticas",
+    "competicoes_jogos",
+    "apoio_atletas",
+    "espacos_esportivos",
+    "contato_proece"
+  ],
+  "escopo": {
+    "n": 215,
+    "acuracia": 0.8418604651162791,
+    "f1_macro": 0.8420500403551251,
+    "por_classe": {
+      "dominio": {
+        "precision": 0.8671875,
+        "recall": 0.8951612903225806,
+        "f1-score": 0.8809523809523809,
+        "support": 124.0
+      },
+      "chitchat": {
+        "precision": 0.9333333333333333,
+        "recall": 0.9333333333333333,
+        "f1-score": 0.9333333333333333,
+        "support": 30.0
+      },
+      "fora_dominio": {
+        "precision": 0.7368421052631579,
+        "recall": 0.6885245901639344,
+        "f1-score": 0.711864406779661,
+        "support": 61.0
+      },
+      "accuracy": 0.8418604651162791,
+      "macro avg": {
+        "precision": 0.8457876461988304,
+        "recall": 0.8390064046066161,
+        "f1-score": 0.8420500403551251,
+        "support": 215.0
+      },
+      "weighted avg": {
+        "precision": 0.8394354345165239,
+        "recall": 0.8418604651162791,
+        "f1-score": 0.8402875537286258,
+        "support": 215.0
+      }
+    },
+    "rotulos": [
+      "dominio",
+      "chitchat",
+      "fora_dominio"
+    ],
+    "matriz_confusao": [
+      [
+        111,
+        0,
+        13
+      ],
+      [
+        0,
+        28,
+        2
+      ],
+      [
+        17,
+        2,
+        42
+      ]
+    ]
+  },
+  "tema_oraculo": {
+    "n": 124,
+    "acuracia": 0.8064516129032258,
+    "f1_macro": 0.8087985454219133,
+    "por_classe": {
+      "modalidades_treinos": {
+        "precision": 0.5555555555555556,
+        "recall": 0.6666666666666666,
+        "f1-score": 0.6060606060606061,
+        "support": 15.0
+      },
+      "inscricao_programa": {
+        "precision": 0.95,
+        "recall": 0.7307692307692307,
+        "f1-score": 0.8260869565217391,
+        "support": 26.0
+      },
+      "atleticas": {
+        "precision": 0.7894736842105263,
+        "recall": 1.0,
+        "f1-score": 0.8823529411764706,
+        "support": 15.0
+      },
+      "competicoes_jogos": {
+        "precision": 0.8666666666666667,
+        "recall": 0.5652173913043478,
+        "f1-score": 0.6842105263157895,
+        "support": 23.0
+      },
+      "apoio_atletas": {
+        "precision": 0.8823529411764706,
+        "recall": 1.0,
+        "f1-score": 0.9375,
+        "support": 15.0
+      },
+      "espacos_esportivos": {
+        "precision": 0.7222222222222222,
+        "recall": 0.8666666666666667,
+        "f1-score": 0.7878787878787878,
+        "support": 15.0
+      },
+      "contato_proece": {
+        "precision": 0.8823529411764706,
+        "recall": 1.0,
+        "f1-score": 0.9375,
+        "support": 15.0
+      },
+      "accuracy": 0.8064516129032258,
+      "macro avg": {
+        "precision": 0.8069462872868447,
+        "recall": 0.8327599936295588,
+        "f1-score": 0.8087985454219133,
+        "support": 124.0
+      },
+      "weighted avg": {
+        "precision": 0.8234894636971936,
+        "recall": 0.8064516129032258,
+        "f1-score": 0.8022942580771479,
+        "support": 124.0
+      }
+    },
+    "rotulos": [
+      "modalidades_treinos",
+      "inscricao_programa",
+      "atleticas",
+      "competicoes_jogos",
+      "apoio_atletas",
+      "espacos_esportivos",
+      "contato_proece"
+    ],
+    "matriz_confusao": [
+      [
+        10,
+        1,
+        0,
+        0,
+        0,
+        2,
+        2
+      ],
+      [
+        4,
+        19,
+        0,
+        2,
+        0,
+        1,
+        0
+      ],
+      [
+        0,
+        0,
+        15,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        2,
+        0,
+        4,
+        13,
+        2,
+        2,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        15,
+        0,
+        0
+      ],
+      [
+        2,
+        0,
+        0,
+        0,
+        0,
+        13,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        15
+      ]
+    ]
+  },
+  "ponta_a_ponta": {
+    "n": 215,
+    "acuracia": 0.7395348837209302,
+    "f1_macro": 0.7742910288184599,
+    "por_classe": {
+      "modalidades_treinos": {
+        "precision": 0.7142857142857143,
+        "recall": 0.6666666666666666,
+        "f1-score": 0.6896551724137931,
+        "support": 15.0
+      },
+      "inscricao_programa": {
+        "precision": 0.9230769230769231,
+        "recall": 0.46153846153846156,
+        "f1-score": 0.6153846153846154,
+        "support": 26.0
+      },
+      "atleticas": {
+        "precision": 0.75,
+        "recall": 1.0,
+        "f1-score": 0.8571428571428571,
+        "support": 15.0
+      },
+      "competicoes_jogos": {
+        "precision": 0.8666666666666667,
+        "recall": 0.5652173913043478,
+        "f1-score": 0.6842105263157895,
+        "support": 23.0
+      },
+      "apoio_atletas": {
+        "precision": 0.875,
+        "recall": 0.9333333333333333,
+        "f1-score": 0.9032258064516129,
+        "support": 15.0
+      },
+      "espacos_esportivos": {
+        "precision": 0.5555555555555556,
+        "recall": 0.6666666666666666,
+        "f1-score": 0.6060606060606061,
+        "support": 15.0
+      },
+      "contato_proece": {
+        "precision": 0.9375,
+        "recall": 1.0,
+        "f1-score": 0.967741935483871,
+        "support": 15.0
+      },
+      "chitchat": {
+        "precision": 0.9333333333333333,
+        "recall": 0.9333333333333333,
+        "f1-score": 0.9333333333333333,
+        "support": 30.0
+      },
+      "fora_dominio": {
+        "precision": 0.7368421052631579,
+        "recall": 0.6885245901639344,
+        "f1-score": 0.711864406779661,
+        "support": 61.0
+      },
+      "micro avg": {
+        "precision": 0.7989949748743719,
+        "recall": 0.7395348837209302,
+        "f1-score": 0.7681159420289855,
+        "support": 215.0
+      },
+      "macro avg": {
+        "precision": 0.8102511442423723,
+        "recall": 0.7683644936674159,
+        "f1-score": 0.7742910288184599,
+        "support": 215.0
+      },
+      "weighted avg": {
+        "precision": 0.8110038176837442,
+        "recall": 0.7395348837209302,
+        "f1-score": 0.7605486817772724,
+        "support": 215.0
+      }
+    },
+    "rotulos": [
+      "modalidades_treinos",
+      "inscricao_programa",
+      "atleticas",
+      "competicoes_jogos",
+      "apoio_atletas",
+      "espacos_esportivos",
+      "contato_proece",
+      "chitchat",
+      "fora_dominio"
+    ],
+    "matriz_confusao": [
+      [
+        10,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        1,
+        3
+      ],
+      [
+        1,
+        12,
+        0,
+        1,
+        0,
+        1,
+        0,
+        0,
+        6,
+        5
+      ],
+      [
+        0,
+        0,
+        15,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        0,
+        3,
+        13,
+        1,
+        0,
+        0,
+        0,
+        1,
+        4
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        14,
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
+      [
+        1,
+        0,
+        0,
+        0,
+        0,
+        10,
+        0,
+        0,
+        4,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        15,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        28,
+        2,
+        0
+      ],
+      [
+        1,
+        1,
+        2,
+        1,
+        1,
+        7,
+        0,
+        2,
+        42,
+        4
+      ]
+    ],
+    "rotulos_previstos": [
+      "modalidades_treinos",
+      "inscricao_programa",
+      "atleticas",
+      "competicoes_jogos",
+      "apoio_atletas",
+      "espacos_esportivos",
+      "contato_proece",
+      "chitchat",
+      "fora_dominio",
+      "esclarecer"
+    ],
+    "taxa_falso_aceite": 0.14285714285714285,
+    "taxa_falsa_recusa": 0.10483870967741936,
+    "taxa_esclarecimento": 0.07441860465116279,
+    "latencia_media_ms": 2.8671613953472543
+  },
+  "arquivo_teste": "C:\\Users\\isabe\\Desktop\\IA_TP2\\IA-2026-02-TP-Chatbot\\dados\\teste.csv"
+}
