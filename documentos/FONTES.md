@@ -30,8 +30,12 @@ forneceu, ou "escrito pelo grupo com base em ...").
 | `competicoes_jogos/regulamento_volta_ufms.pdf` | Disponível em: https://proece.ufms.br/edital-no-461-2026-proece-ufms-retificacao-do-edital-no-392-2026-proece-ufms-regulamento-da-volta-ufms-2026-cidade-universitaria/ (Acesso em: 17/11/2026) |
 
 
-| `contato_proece/setor_espaco_esportivo.txt` | Disponível em: https://proece.ufms.br/diretorias/diel/segef/ (Acesso em: 17/11/2026) |
 
+| `contato_proece/diel.txt` | Disponível em: https://voltaufms.ufms.br/ (Acesso em: 18/11/2026) |
+| `contato_proece/pulse.txt` | Disponível em: https://proece.ufms.br/estrutura-organizacional/ (Acesso em: 18/11/2026) |
+| `contato_proece/sepel.txt` | Disponível em: https://proece.ufms.br/diretorias/diel/sepel/(Acesso em: 18/11/2026) |
+| `contato_proece/setgee.txt` | Disponível em: https://proece.ufms.br/estrutura-organizacional/ (Acesso em: 18/11/2026) |
+| `contato_proece/sobre_proece.txt` | Disponível em:https://proece.ufms.br/gabinete/ (Acesso em: 18/11/2026) |
 
 | `espacos_esportivos/agenda_moreninho.txt` | Disponível em: https://proece.ufms.br/diretorias/diel/segef/agenda-ginasio-moreninho/ (Acesso em: 17/11/2026) |
 | `espacos_esportivos/como_reservar.txt` | Disponível em: https://www.ufms.br/espacos-esportivos-da-cidade-universitaria-estao-abertos-para-receber-servidores-e-academicos/ (Acesso em: 17/11/2026) |
@@ -44,8 +48,9 @@ forneceu, ou "escrito pelo grupo com base em ...").
 
 | `inscricao_programa/bolsa_extensao_2025.pdf` | Disponível em: https://proece.ufms.br/edital-no-17-2025-proece-ufms-cadastro-de-candidatos-a-bolsas-de-extensao-universitaria-2025/(Acesso em: 17/11/2026) |
 | `inscricao_programa/bolsa_extensao_2026.pdf` | Disponível em: https://proece.ufms.br/edital-no-01-2026-proece-ufms-cadastro-de-candidatos-a-bolsas-de-extensao-universitaria-2026/(Acesso em: 17/11/2026) |
-| `inscricao_programa/modalidades_esportivas_2026_1.pdf` | Disponível em:https://proece.ufms.br/edital-no-367-2026-proece-ufms-oferta-de-vagas-para-modalidades-esportivas-treinamento-e-lazer-na-cidade-universitaria-por-meio-do-programa-universitario-de-lazer-saude-e-esporte/ (Acesso em: 17/11/2026) |
-| `inscricao_programa/modalidades_esportivas_2026_2.pdf` | Disponível em: https://proece.ufms.br/edital-no-574-2025-proece-ufms-oferta-de-vagas-remanescentes-para-modalidades-esportivas-treinamento-e-lazer-na-cidade-universitaria/ (Acesso em: 17/11/2026) |
+| `inscricao_programa/festival_mais_esporte.pdf` | Disponível em:https://proece.ufms.br/edital-no-455-2026-proece-ufms-regulamento-da-corrida-de-orientacao-festival-mais-esporte-ufms-2026//(Acesso em: 18/11/2026) |
+| `inscricao_programa/pulse_2026_1.pdf` | Disponível em:https://proece.ufms.br/edital-no-367-2026-proece-ufms-oferta-de-vagas-para-modalidades-esportivas-treinamento-e-lazer-na-cidade-universitaria-por-meio-do-programa-universitario-de-lazer-saude-e-esporte/ (Acesso em: 17/11/2026) |
+| `inscricao_programa/pulse_2026_2.pdf` | Disponível em: https://proece.ufms.br/edital-no-574-2025-proece-ufms-oferta-de-vagas-remanescentes-para-modalidades-esportivas-treinamento-e-lazer-na-cidade-universitaria/ (Acesso em: 17/11/2026) |
 
 
 | `modalidades_treinos/agenda_academia_escola.txt` | Disponível em: https://proece.ufms.br/diretorias/diel/segef/agenda-academia-escola/ (Acesso em: 17/11/2026) |
