@@ -1,4 +1,4 @@
 # Links da entrega - preencha depois de publicar o vídeo.
 # O vídeo deve ser público ou "não listado" (YouTube) / aberto a quem tem o link (Drive).
-video: 
+video: https://youtu.be/i14eMmdKuAY?si=JMMDRv4Ye_iGKbes
 repositorio: https://github.com/amanda-bea/IA-2026-02-TP-Chatbot
